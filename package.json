@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "cpany dev",
+    "build": "cpany build"
+  },
+  "dependencies": {
+    "@cpany/cli": "0.0.25"
+  }
+}

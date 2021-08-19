@@ -1,0 +1,24 @@
+users:
+  tourist:
+    codeforces/handle: tourist
+  MikeMirzayanov:
+    codeforces/handle: MikeMirzayanov
+
+handles:
+  - codeforces/handle
+
+contests:
+  - codeforces/contest.json
+  - codeforces/gym-contest.json
+
+app:
+  recentTime: 2592000 # 1 month
+  recentContestsCount: 20
+  recentUserCount: 5
+  # title:
+
+fetch:
+  - codeforces/contest.json
+  - codeforces/gym-contest.json
+
+static:
