@@ -1,8 +1,6 @@
 users:
   tourist:
     codeforces/handle: tourist
-  MikeMirzayanov:
-    codeforces/handle: MikeMirzayanov
 
 handles:
   - codeforces/handle
