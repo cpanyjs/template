@@ -1,0 +1,3498 @@
+{
+  "type": "codeforces/handle",
+  "handle": "MikeMirzayanov",
+  "handleUrl": "https://codeforces.com/profile/MikeMirzayanov",
+  "avatar": "https://userpic.codeforces.org/11/title/e3d1154e7b77aecd.jpg",
+  "codeforces": {},
+  "submissions": [
+    {
+      "type": "codeforces",
+      "id": 111331295,
+      "creationTime": 1617007072,
+      "language": "GNU C++17",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -530476575
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "undefined285",
+        "name": "What? Where? When?",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/contest/undefined/problem/285"
+      },
+      "submissionUrl": "https://codeforces.com/contest/undefined/submission/111331295"
+    },
+    {
+      "type": "codeforces",
+      "id": 106487434,
+      "creationTime": 1612466678,
+      "language": "GNU C++17",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1612466700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1411A",
+        "name": "In-game Chat",
+        "rating": 800,
+        "tags": [
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1411/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1411/submission/106487434"
+    },
+    {
+      "type": "codeforces",
+      "id": 104938700,
+      "creationTime": 1611180398,
+      "language": "GNU C++11",
+      "verdict": "COMPILATION_ERROR",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -536303249
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1A",
+        "name": "Theatre Square",
+        "rating": 1000,
+        "tags": [
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1/submission/104938700"
+    },
+    {
+      "type": "codeforces",
+      "id": 103935279,
+      "creationTime": 1610261888,
+      "language": "Ruby 3",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -537221759
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1A",
+        "name": "Theatre Square",
+        "rating": 1000,
+        "tags": [
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1/submission/103935279"
+    },
+    {
+      "type": "codeforces",
+      "id": 103935130,
+      "creationTime": 1610261739,
+      "language": "Ruby 3",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -537221908
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1A",
+        "name": "Theatre Square",
+        "rating": 1000,
+        "tags": [
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1/submission/103935130"
+    },
+    {
+      "type": "codeforces",
+      "id": 103816905,
+      "creationTime": 1610128203,
+      "language": "Ruby",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -537355444
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1A",
+        "name": "Theatre Square",
+        "rating": 1000,
+        "tags": [
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1/submission/103816905"
+    },
+    {
+      "type": "codeforces",
+      "id": 103816854,
+      "creationTime": 1610128178,
+      "language": "Ruby",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -537355469
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1A",
+        "name": "Theatre Square",
+        "rating": 1000,
+        "tags": [
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1/submission/103816854"
+    },
+    {
+      "type": "codeforces",
+      "id": 103643530,
+      "creationTime": 1610030833,
+      "language": "Ruby",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -537452814
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1A",
+        "name": "Theatre Square",
+        "rating": 1000,
+        "tags": [
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1/submission/103643530"
+    },
+    {
+      "type": "codeforces",
+      "id": 91517328,
+      "creationTime": 1598898557,
+      "language": "GNU C++17 (64)",
+      "verdict": "COMPILATION_ERROR",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -548585090
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "undefined553",
+        "name": "Sultan's Pearls",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/contest/undefined/problem/553"
+      },
+      "submissionUrl": "https://codeforces.com/contest/undefined/submission/91517328"
+    },
+    {
+      "type": "codeforces",
+      "id": 91517317,
+      "creationTime": 1598898536,
+      "language": "GNU C++17 (64)",
+      "verdict": "COMPILATION_ERROR",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -548585111
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1111A",
+        "name": "Superhero Transformation",
+        "rating": 1000,
+        "tags": [
+          "implementation",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1111/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1111/submission/91517317"
+    },
+    {
+      "type": "codeforces",
+      "id": 85931710,
+      "creationTime": 1593874126,
+      "language": "Ruby",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -553609521
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1A",
+        "name": "Theatre Square",
+        "rating": 1000,
+        "tags": [
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1/submission/85931710"
+    },
+    {
+      "type": "codeforces",
+      "id": 85927671,
+      "creationTime": 1593871308,
+      "language": "Ruby",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -553612339
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1A",
+        "name": "Theatre Square",
+        "rating": 1000,
+        "tags": [
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1/submission/85927671"
+    },
+    {
+      "type": "codeforces",
+      "id": 79812256,
+      "creationTime": 1589284008,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -558199639
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1352C",
+        "name": "K-th Not Divisible by n",
+        "rating": 1200,
+        "tags": [
+          "binary search",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1352/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1352/submission/79812256"
+    },
+    {
+      "type": "codeforces",
+      "id": 79807962,
+      "creationTime": 1589280238,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -558203409
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1344A",
+        "name": "Hilbert's Hotel",
+        "rating": 1600,
+        "tags": [
+          "math",
+          "number theory",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1344/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1344/submission/79807962"
+    },
+    {
+      "type": "codeforces",
+      "id": 79693895,
+      "creationTime": 1589149336,
+      "language": "GNU C++14",
+      "verdict": "COMPILATION_ERROR",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -558334311
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1056A",
+        "name": "Determine Line",
+        "rating": 800,
+        "tags": [
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1056/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1056/submission/79693895"
+    },
+    {
+      "type": "codeforces",
+      "id": 69620188,
+      "creationTime": 1580134693,
+      "language": "GNU C++17",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -567348954
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1276C",
+        "name": "Beautiful Rectangle",
+        "rating": 2300,
+        "tags": [
+          "brute force",
+          "combinatorics",
+          "constructive algorithms",
+          "data structures",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1276/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1276/submission/69620188"
+    },
+    {
+      "type": "codeforces",
+      "id": 69616101,
+      "creationTime": 1580130546,
+      "language": "GNU C++17",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -567353101
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1276C",
+        "name": "Beautiful Rectangle",
+        "rating": 2300,
+        "tags": [
+          "brute force",
+          "combinatorics",
+          "constructive algorithms",
+          "data structures",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1276/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1276/submission/69616101"
+    },
+    {
+      "type": "codeforces",
+      "id": 69615407,
+      "creationTime": 1580129804,
+      "language": "GNU C++17",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -567353843
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1276C",
+        "name": "Beautiful Rectangle",
+        "rating": 2300,
+        "tags": [
+          "brute force",
+          "combinatorics",
+          "constructive algorithms",
+          "data structures",
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1276/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1276/submission/69615407"
+    },
+    {
+      "type": "codeforces",
+      "id": 68624373,
+      "creationTime": 1578775352,
+      "language": "Java 11",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -568708295
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "600B",
+        "name": "Queries about less or equal elements",
+        "rating": 1300,
+        "tags": [
+          "binary search",
+          "data structures",
+          "sortings",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/600/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/600/submission/68624373"
+    },
+    {
+      "type": "codeforces",
+      "id": 63739488,
+      "creationTime": 1572366369,
+      "language": "PyPy 3",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -575117278
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "undefined113",
+        "name": "Nearly prime numbers",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/contest/undefined/problem/113"
+      },
+      "submissionUrl": "https://codeforces.com/contest/undefined/submission/63739488"
+    },
+    {
+      "type": "codeforces",
+      "id": 63739477,
+      "creationTime": 1572366356,
+      "language": "Python 3",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -575117291
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "undefined113",
+        "name": "Nearly prime numbers",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/contest/undefined/problem/113"
+      },
+      "submissionUrl": "https://codeforces.com/contest/undefined/submission/63739477"
+    },
+    {
+      "type": "codeforces",
+      "id": 59443808,
+      "creationTime": 1566735945,
+      "language": "GNU C++14",
+      "verdict": "COMPILATION_ERROR",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -580747702
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1207G",
+        "name": "Indie Album",
+        "rating": 2700,
+        "tags": [
+          "data structures",
+          "dfs and similar",
+          "hashing",
+          "string suffix structures",
+          "strings",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1207/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1207/submission/59443808"
+    },
+    {
+      "type": "codeforces",
+      "id": 56039856,
+      "creationTime": 1561470520,
+      "language": "GNU C++17",
+      "verdict": "COMPILATION_ERROR",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -586013127
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "200A",
+        "name": "Cinema",
+        "rating": 2400,
+        "tags": [
+          "brute force",
+          "data structures"
+        ],
+        "problemUrl": "https://codeforces.com/contest/200/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/200/submission/56039856"
+    },
+    {
+      "type": "codeforces",
+      "id": 54078421,
+      "creationTime": 1557788515,
+      "language": "GNU C++17",
+      "verdict": "COMPILATION_ERROR",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -589695132
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "11A",
+        "name": "Increasing Sequence",
+        "rating": 900,
+        "tags": [
+          "constructive algorithms",
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/11/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/11/submission/54078421"
+    },
+    {
+      "type": "codeforces",
+      "id": 54078238,
+      "creationTime": 1557787732,
+      "language": "GNU C++17",
+      "verdict": "COMPILATION_ERROR",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -589695915
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "10A",
+        "name": "Power Consumption Calculation",
+        "rating": 900,
+        "tags": [
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/10/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/10/submission/54078238"
+    },
+    {
+      "type": "codeforces",
+      "id": 53077822,
+      "creationTime": 1555815555,
+      "language": "GNU C++17",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -591668092
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "undefined100",
+        "name": "A+B",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/contest/undefined/problem/100"
+      },
+      "submissionUrl": "https://codeforces.com/contest/undefined/submission/53077822"
+    },
+    {
+      "type": "codeforces",
+      "id": 46059525,
+      "creationTime": 1542890338,
+      "language": "Pike",
+      "verdict": "RUNTIME_ERROR",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -604593309
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "100A",
+        "name": "Carpeting the Room",
+        "rating": 1100,
+        "tags": [
+          "*special",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/100/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/100/submission/46059525"
+    },
+    {
+      "type": "codeforces",
+      "id": 38344419,
+      "creationTime": 1526551537,
+      "language": "Node.js",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -620932110
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1A",
+        "name": "Theatre Square",
+        "rating": 1000,
+        "tags": [
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1/submission/38344419"
+    },
+    {
+      "type": "codeforces",
+      "id": 38344388,
+      "creationTime": 1526551447,
+      "language": "Node.js",
+      "verdict": "RUNTIME_ERROR",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -620932200
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1A",
+        "name": "Theatre Square",
+        "rating": 1000,
+        "tags": [
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1/submission/38344388"
+    },
+    {
+      "type": "codeforces",
+      "id": 37579805,
+      "creationTime": 1524590950,
+      "language": "GNU C++17",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -622892697
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "undefined102",
+        "name": "Coprimes",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/contest/undefined/problem/102"
+      },
+      "submissionUrl": "https://codeforces.com/contest/undefined/submission/37579805"
+    },
+    {
+      "type": "codeforces",
+      "id": 36268477,
+      "creationTime": 1521015333,
+      "language": "GNU C++14",
+      "verdict": "COMPILATION_ERROR",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -626468314
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1A",
+        "name": "Theatre Square",
+        "rating": 1000,
+        "tags": [
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1/submission/36268477"
+    },
+    {
+      "type": "codeforces",
+      "id": 35087759,
+      "creationTime": 1518175819,
+      "language": "GNU C++17",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -629307828
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "593A",
+        "name": "2Char",
+        "rating": 1200,
+        "tags": [
+          "brute force",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/593/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/593/submission/35087759"
+    },
+    {
+      "type": "codeforces",
+      "id": 35087748,
+      "creationTime": 1518175800,
+      "language": "GNU C++17",
+      "verdict": "COMPILATION_ERROR",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -629307847
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "922F",
+        "name": "Divisibility",
+        "rating": 2400,
+        "tags": [
+          "constructive algorithms",
+          "dp",
+          "greedy",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/922/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/922/submission/35087748"
+    },
+    {
+      "type": "codeforces",
+      "id": 32515889,
+      "creationTime": 1511240722,
+      "language": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1511240700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "101591A",
+        "name": "Tests",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/101591/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/gym/101591/submission/32515889"
+    },
+    {
+      "type": "codeforces",
+      "id": 31323811,
+      "creationTime": 1508015056,
+      "language": "PascalABC.NET",
+      "verdict": "COMPILATION_ERROR",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -639468591
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1A",
+        "name": "Theatre Square",
+        "rating": 1000,
+        "tags": [
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1/submission/31323811"
+    },
+    {
+      "type": "codeforces",
+      "id": 20289108,
+      "creationTime": 1472587526,
+      "language": "GNU C++14",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -674896121
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1A",
+        "name": "Theatre Square",
+        "rating": 1000,
+        "tags": [
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1/submission/20289108"
+    },
+    {
+      "type": "codeforces",
+      "id": 14262227,
+      "creationTime": 1447546657,
+      "language": "GNU C++11",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -699936990
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "598B",
+        "name": "Queries on a String",
+        "rating": 1300,
+        "tags": [
+          "implementation",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/598/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/598/submission/14262227"
+    },
+    {
+      "type": "codeforces",
+      "id": 13861109,
+      "creationTime": 1445803931,
+      "language": "Java 8",
+      "verdict": "COMPILATION_ERROR",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -701679716
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1A",
+        "name": "Theatre Square",
+        "rating": 1000,
+        "tags": [
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1/submission/13861109"
+    },
+    {
+      "type": "codeforces",
+      "id": 13452543,
+      "creationTime": 1444153856,
+      "language": "Java 7",
+      "verdict": "COMPILATION_ERROR",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -703329791
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1A",
+        "name": "Theatre Square",
+        "rating": 1000,
+        "tags": [
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1/submission/13452543"
+    },
+    {
+      "type": "codeforces",
+      "id": 11533993,
+      "creationTime": 1434030593,
+      "language": "GNU C++11",
+      "verdict": "COMPILATION_ERROR",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -713453054
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1A",
+        "name": "Theatre Square",
+        "rating": 1000,
+        "tags": [
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1/submission/11533993"
+    },
+    {
+      "type": "codeforces",
+      "id": 10526786,
+      "creationTime": 1427734305,
+      "language": "MS C#",
+      "verdict": "COMPILATION_ERROR",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -719749342
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1A",
+        "name": "Theatre Square",
+        "rating": 1000,
+        "tags": [
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1/submission/10526786"
+    },
+    {
+      "type": "codeforces",
+      "id": 10417931,
+      "creationTime": 1427150966,
+      "language": "GNU C11",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -720332681
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1A",
+        "name": "Theatre Square",
+        "rating": 1000,
+        "tags": [
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1/submission/10417931"
+    },
+    {
+      "type": "codeforces",
+      "id": 10212686,
+      "creationTime": 1425849844,
+      "language": "GNU C++",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1425835500
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "522C",
+        "name": "Chicken or Fish?",
+        "rating": 2100,
+        "tags": [
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/522/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/522/submission/10212686"
+    },
+    {
+      "type": "codeforces",
+      "id": 10122606,
+      "creationTime": 1425315312,
+      "language": "GNU C++",
+      "verdict": "COMPILATION_ERROR",
+      "author": {
+        "members": [
+          "MikeMirzayanov",
+          "ralekseenkov",
+          "AndrewLazarev"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1425315300,
+        "teamName": "Saratov State U: Run, Saratov, run!"
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "21A",
+        "name": "Jabber ID",
+        "rating": 1900,
+        "tags": [
+          "implementation",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/21/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/21/submission/10122606"
+    },
+    {
+      "type": "codeforces",
+      "id": 8418284,
+      "creationTime": 1414314627,
+      "language": "GNU C++",
+      "verdict": "COMPILATION_ERROR",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -733169020
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "444E",
+        "name": "DZY Loves Planting",
+        "rating": 2700,
+        "tags": [
+          "binary search",
+          "dsu",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/444/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/444/submission/8418284"
+    },
+    {
+      "type": "codeforces",
+      "id": 6740283,
+      "creationTime": 1401454126,
+      "language": "GNU C++",
+      "verdict": "COMPILATION_ERROR",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -746029521
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "135A",
+        "name": "Replacement",
+        "rating": 1300,
+        "tags": [
+          "greedy",
+          "implementation",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/135/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/135/submission/6740283"
+    },
+    {
+      "type": "codeforces",
+      "id": 6101215,
+      "creationTime": 1395444326,
+      "language": "Java 8",
+      "verdict": "COMPILATION_ERROR",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -752039321
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1A",
+        "name": "Theatre Square",
+        "rating": 1000,
+        "tags": [
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1/submission/6101215"
+    },
+    {
+      "type": "codeforces",
+      "id": 6101213,
+      "creationTime": 1395444291,
+      "language": "Java 8",
+      "verdict": "RUNTIME_ERROR",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -752039356
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1A",
+        "name": "Theatre Square",
+        "rating": 1000,
+        "tags": [
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1/submission/6101213"
+    },
+    {
+      "type": "codeforces",
+      "id": 6001209,
+      "creationTime": 1394610007,
+      "language": "Pike",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -752873640
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "100A",
+        "name": "Carpeting the Room",
+        "rating": 1100,
+        "tags": [
+          "*special",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/100/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/100/submission/6001209"
+    },
+    {
+      "type": "codeforces",
+      "id": 5916478,
+      "creationTime": 1393856044,
+      "language": "GNU C++",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -753627603
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1A",
+        "name": "Theatre Square",
+        "rating": 1000,
+        "tags": [
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1/submission/5916478"
+    },
+    {
+      "type": "codeforces",
+      "id": 5770205,
+      "creationTime": 1390390383,
+      "language": "GNU C++",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -757093264
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "386B",
+        "name": "Fly, freebies, fly!",
+        "rating": 1400,
+        "tags": [
+          "binary search",
+          "brute force",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/386/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/386/submission/5770205"
+    },
+    {
+      "type": "codeforces",
+      "id": 4923144,
+      "creationTime": 1382992189,
+      "language": "Java 7",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -764491458
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "304A",
+        "name": "Pythagorean Theorem II",
+        "rating": 1200,
+        "tags": [
+          "brute force",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/304/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/304/submission/4923144"
+    },
+    {
+      "type": "codeforces",
+      "id": 4034347,
+      "creationTime": 1373193312,
+      "language": "FPC",
+      "verdict": "COMPILATION_ERROR",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -774290335
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1A",
+        "name": "Theatre Square",
+        "rating": 1000,
+        "tags": [
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1/submission/4034347"
+    },
+    {
+      "type": "codeforces",
+      "id": 4034131,
+      "creationTime": 1373190445,
+      "language": "Delphi",
+      "verdict": "COMPILATION_ERROR",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -774293202
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1A",
+        "name": "Theatre Square",
+        "rating": 1000,
+        "tags": [
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1/submission/4034131"
+    },
+    {
+      "type": "codeforces",
+      "id": 3857353,
+      "creationTime": 1370953485,
+      "language": "Delphi",
+      "verdict": "RUNTIME_ERROR",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -776530162
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1A",
+        "name": "Theatre Square",
+        "rating": 1000,
+        "tags": [
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1/submission/3857353"
+    },
+    {
+      "type": "codeforces",
+      "id": 3791119,
+      "creationTime": 1369833076,
+      "language": "GNU C++",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -777650571
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "115A",
+        "name": "Party",
+        "rating": 900,
+        "tags": [
+          "dfs and similar",
+          "graphs",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/115/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/115/submission/3791119"
+    },
+    {
+      "type": "codeforces",
+      "id": 3750971,
+      "creationTime": 1369070211,
+      "language": "Java 7",
+      "verdict": "COMPILATION_ERROR",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -778413436
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "300A",
+        "name": "Array",
+        "rating": 1100,
+        "tags": [
+          "brute force",
+          "constructive algorithms",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/300/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/300/submission/3750971"
+    },
+    {
+      "type": "codeforces",
+      "id": 3750969,
+      "creationTime": 1369070202,
+      "language": "Java 6",
+      "verdict": "COMPILATION_ERROR",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -778413445
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "300A",
+        "name": "Array",
+        "rating": 1100,
+        "tags": [
+          "brute force",
+          "constructive algorithms",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/300/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/300/submission/3750969"
+    },
+    {
+      "type": "codeforces",
+      "id": 3661525,
+      "creationTime": 1367528711,
+      "language": "Go",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -779954936
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1A",
+        "name": "Theatre Square",
+        "rating": 1000,
+        "tags": [
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1/submission/3661525"
+    },
+    {
+      "type": "codeforces",
+      "id": 3661389,
+      "creationTime": 1367523630,
+      "language": "Python 3",
+      "verdict": "COMPILATION_ERROR",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -779960017
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1A",
+        "name": "Theatre Square",
+        "rating": 1000,
+        "tags": [
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1/submission/3661389"
+    },
+    {
+      "type": "codeforces",
+      "id": 3661388,
+      "creationTime": 1367523609,
+      "language": "MS C#",
+      "verdict": "COMPILATION_ERROR",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -779960038
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1A",
+        "name": "Theatre Square",
+        "rating": 1000,
+        "tags": [
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1/submission/3661388"
+    },
+    {
+      "type": "codeforces",
+      "id": 3661323,
+      "creationTime": 1367522320,
+      "language": "MS C#",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -779961327
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1A",
+        "name": "Theatre Square",
+        "rating": 1000,
+        "tags": [
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1/submission/3661323"
+    },
+    {
+      "type": "codeforces",
+      "id": 3661314,
+      "creationTime": 1367521944,
+      "language": "Python 3",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -779961703
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1A",
+        "name": "Theatre Square",
+        "rating": 1000,
+        "tags": [
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1/submission/3661314"
+    },
+    {
+      "type": "codeforces",
+      "id": 3384353,
+      "creationTime": 1364024543,
+      "language": "GNU C++",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -783459104
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "284A",
+        "name": "Cows and Primitive Roots",
+        "rating": 1400,
+        "tags": [
+          "implementation",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/284/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/284/submission/3384353"
+    },
+    {
+      "type": "codeforces",
+      "id": 3384327,
+      "creationTime": 1364024289,
+      "language": "GNU C++",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -783459358
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "284A",
+        "name": "Cows and Primitive Roots",
+        "rating": 1400,
+        "tags": [
+          "implementation",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/284/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/284/submission/3384327"
+    },
+    {
+      "type": "codeforces",
+      "id": 3083555,
+      "creationTime": 1360326998,
+      "language": "D",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -787156649
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "237C",
+        "name": "Primes on Interval",
+        "rating": 1600,
+        "tags": [
+          "binary search",
+          "number theory",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/237/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/237/submission/3083555"
+    },
+    {
+      "type": "codeforces",
+      "id": 3042532,
+      "creationTime": 1359685035,
+      "language": "Delphi",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -787798612
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1A",
+        "name": "Theatre Square",
+        "rating": 1000,
+        "tags": [
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1/submission/3042532"
+    },
+    {
+      "type": "codeforces",
+      "id": 2909542,
+      "creationTime": 1358025256,
+      "language": "PHP",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -789458391
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "55A",
+        "name": "Flea travel",
+        "rating": 1200,
+        "tags": [
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/55/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/55/submission/2909542"
+    },
+    {
+      "type": "codeforces",
+      "id": 2909513,
+      "creationTime": 1358024581,
+      "language": "PHP",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -789459066
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "12A",
+        "name": "Super Agent",
+        "rating": 800,
+        "tags": [
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/12/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/12/submission/2909513"
+    },
+    {
+      "type": "codeforces",
+      "id": 2900727,
+      "creationTime": 1357772119,
+      "language": "Scala",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -789711528
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "171A",
+        "name": "Mysterious numbers - 1",
+        "rating": 1200,
+        "tags": [
+          "*special",
+          "constructive algorithms"
+        ],
+        "problemUrl": "https://codeforces.com/contest/171/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/171/submission/2900727"
+    },
+    {
+      "type": "codeforces",
+      "id": 2900603,
+      "creationTime": 1357768490,
+      "language": "GNU C++",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -789715157
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "257C",
+        "name": "View Angle",
+        "rating": 1800,
+        "tags": [
+          "brute force",
+          "geometry",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/257/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/257/submission/2900603"
+    },
+    {
+      "type": "codeforces",
+      "id": 2872956,
+      "creationTime": 1357298095,
+      "language": "GNU C++",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Edvard",
+          "Avalanche",
+          "MikeMirzayanov"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1357280100,
+        "teamName": "Saratov SU 2"
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "100153I",
+        "name": "Shepherd's Problem",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/100153/problem/I"
+      },
+      "submissionUrl": "https://codeforces.com/gym/100153/submission/2872956"
+    },
+    {
+      "type": "codeforces",
+      "id": 2872955,
+      "creationTime": 1357298087,
+      "language": "GNU C++",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Edvard",
+          "Avalanche",
+          "MikeMirzayanov"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1357280100,
+        "teamName": "Saratov SU 2"
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "100153I",
+        "name": "Shepherd's Problem",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/100153/problem/I"
+      },
+      "submissionUrl": "https://codeforces.com/gym/100153/submission/2872955"
+    },
+    {
+      "type": "codeforces",
+      "id": 2872954,
+      "creationTime": 1357298073,
+      "language": "GNU C++",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Edvard",
+          "Avalanche",
+          "MikeMirzayanov"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1357280100,
+        "teamName": "Saratov SU 2"
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "100153I",
+        "name": "Shepherd's Problem",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/100153/problem/I"
+      },
+      "submissionUrl": "https://codeforces.com/gym/100153/submission/2872954"
+    },
+    {
+      "type": "codeforces",
+      "id": 2872950,
+      "creationTime": 1357298034,
+      "language": "GNU C++",
+      "verdict": "RUNTIME_ERROR",
+      "author": {
+        "members": [
+          "Edvard",
+          "Avalanche",
+          "MikeMirzayanov"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1357280100,
+        "teamName": "Saratov SU 2"
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "100153I",
+        "name": "Shepherd's Problem",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/100153/problem/I"
+      },
+      "submissionUrl": "https://codeforces.com/gym/100153/submission/2872950"
+    },
+    {
+      "type": "codeforces",
+      "id": 2872870,
+      "creationTime": 1357295960,
+      "language": "GNU C++",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Edvard",
+          "Avalanche",
+          "MikeMirzayanov"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1357280100,
+        "teamName": "Saratov SU 2"
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "100153D",
+        "name": "Minimal Cut Matrix",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/100153/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/gym/100153/submission/2872870"
+    },
+    {
+      "type": "codeforces",
+      "id": 2872813,
+      "creationTime": 1357294474,
+      "language": "GNU C++",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Edvard",
+          "Avalanche",
+          "MikeMirzayanov"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1357280100,
+        "teamName": "Saratov SU 2"
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "100153E",
+        "name": "Shortest Path",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/100153/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/gym/100153/submission/2872813"
+    },
+    {
+      "type": "codeforces",
+      "id": 2872809,
+      "creationTime": 1357294354,
+      "language": "GNU C++",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "Edvard",
+          "Avalanche",
+          "MikeMirzayanov"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1357280100,
+        "teamName": "Saratov SU 2"
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "100153E",
+        "name": "Shortest Path",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/100153/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/gym/100153/submission/2872809"
+    },
+    {
+      "type": "codeforces",
+      "id": 2872716,
+      "creationTime": 1357291504,
+      "language": "GNU C++",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Edvard",
+          "Avalanche",
+          "MikeMirzayanov"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1357280100,
+        "teamName": "Saratov SU 2"
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "100153H",
+        "name": "School of Magic",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/100153/problem/H"
+      },
+      "submissionUrl": "https://codeforces.com/gym/100153/submission/2872716"
+    },
+    {
+      "type": "codeforces",
+      "id": 2872673,
+      "creationTime": 1357290194,
+      "language": "GNU C++",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Edvard",
+          "Avalanche",
+          "MikeMirzayanov"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1357280100,
+        "teamName": "Saratov SU 2"
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "100153J",
+        "name": "Suffix Automaton",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/100153/problem/J"
+      },
+      "submissionUrl": "https://codeforces.com/gym/100153/submission/2872673"
+    },
+    {
+      "type": "codeforces",
+      "id": 2872593,
+      "creationTime": 1357288082,
+      "language": "GNU C++",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Edvard",
+          "Avalanche",
+          "MikeMirzayanov"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1357280100,
+        "teamName": "Saratov SU 2"
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "100153B",
+        "name": "Discount",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/100153/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/gym/100153/submission/2872593"
+    },
+    {
+      "type": "codeforces",
+      "id": 2872533,
+      "creationTime": 1357286607,
+      "language": "GNU C++",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Edvard",
+          "Avalanche",
+          "MikeMirzayanov"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1357280100,
+        "teamName": "Saratov SU 2"
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "100153C",
+        "name": "Dowry",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/100153/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/gym/100153/submission/2872533"
+    },
+    {
+      "type": "codeforces",
+      "id": 2872531,
+      "creationTime": 1357286532,
+      "language": "GNU C++",
+      "verdict": "RUNTIME_ERROR",
+      "author": {
+        "members": [
+          "Edvard",
+          "Avalanche",
+          "MikeMirzayanov"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1357280100,
+        "teamName": "Saratov SU 2"
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "100153C",
+        "name": "Dowry",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/100153/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/gym/100153/submission/2872531"
+    },
+    {
+      "type": "codeforces",
+      "id": 2872478,
+      "creationTime": 1357285231,
+      "language": "GNU C++",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Edvard",
+          "Avalanche",
+          "MikeMirzayanov"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1357280100,
+        "teamName": "Saratov SU 2"
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "100153B",
+        "name": "Discount",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/100153/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/gym/100153/submission/2872478"
+    },
+    {
+      "type": "codeforces",
+      "id": 2872455,
+      "creationTime": 1357284679,
+      "language": "GNU C++",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Edvard",
+          "Avalanche",
+          "MikeMirzayanov"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1357280100,
+        "teamName": "Saratov SU 2"
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "100153B",
+        "name": "Discount",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/100153/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/gym/100153/submission/2872455"
+    },
+    {
+      "type": "codeforces",
+      "id": 2872404,
+      "creationTime": 1357282954,
+      "language": "GNU C++",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Edvard",
+          "Avalanche",
+          "MikeMirzayanov"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1357280100,
+        "teamName": "Saratov SU 2"
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "100153G",
+        "name": "Yet Another Rooks Problem",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/100153/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/gym/100153/submission/2872404"
+    },
+    {
+      "type": "codeforces",
+      "id": 2872401,
+      "creationTime": 1357282890,
+      "language": "GNU C++",
+      "verdict": "MEMORY_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "Edvard",
+          "Avalanche",
+          "MikeMirzayanov"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1357280100,
+        "teamName": "Saratov SU 2"
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "100153G",
+        "name": "Yet Another Rooks Problem",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/100153/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/gym/100153/submission/2872401"
+    },
+    {
+      "type": "codeforces",
+      "id": 2872339,
+      "creationTime": 1357280942,
+      "language": "GNU C++",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Edvard",
+          "Avalanche",
+          "MikeMirzayanov"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1357280100,
+        "teamName": "Saratov SU 2"
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "100153A",
+        "name": "War Academy",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/100153/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/gym/100153/submission/2872339"
+    },
+    {
+      "type": "codeforces",
+      "id": 2772337,
+      "creationTime": 1355650255,
+      "language": "MS C#",
+      "verdict": "RUNTIME_ERROR",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -791833392
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "254E",
+        "name": "Dormitory",
+        "rating": 2100,
+        "tags": [
+          "dp",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/254/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/254/submission/2772337"
+    },
+    {
+      "type": "codeforces",
+      "id": 2679864,
+      "creationTime": 1354273412,
+      "language": "GNU C++",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Nerevar",
+          "MikeMirzayanov"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1354255500,
+        "teamName": "Saratov SU Coaches"
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "100132F",
+        "name": "Спасти котенка",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/100132/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/gym/100132/submission/2679864"
+    },
+    {
+      "type": "codeforces",
+      "id": 2679802,
+      "creationTime": 1354272879,
+      "language": "GNU C++",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Nerevar",
+          "MikeMirzayanov"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1354255500,
+        "teamName": "Saratov SU Coaches"
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "100132F",
+        "name": "Спасти котенка",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/100132/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/gym/100132/submission/2679802"
+    },
+    {
+      "type": "codeforces",
+      "id": 2679644,
+      "creationTime": 1354270744,
+      "language": "GNU C++",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "Nerevar",
+          "MikeMirzayanov"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1354255500,
+        "teamName": "Saratov SU Coaches"
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "100132F",
+        "name": "Спасти котенка",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/100132/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/gym/100132/submission/2679644"
+    },
+    {
+      "type": "codeforces",
+      "id": 2679505,
+      "creationTime": 1354267526,
+      "language": "GNU C++",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Nerevar",
+          "MikeMirzayanov"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1354255500,
+        "teamName": "Saratov SU Coaches"
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "100132J",
+        "name": "Швабра",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/100132/problem/J"
+      },
+      "submissionUrl": "https://codeforces.com/gym/100132/submission/2679505"
+    },
+    {
+      "type": "codeforces",
+      "id": 2679442,
+      "creationTime": 1354266547,
+      "language": "GNU C++",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Nerevar",
+          "MikeMirzayanov"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1354255500,
+        "teamName": "Saratov SU Coaches"
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "100132J",
+        "name": "Швабра",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/100132/problem/J"
+      },
+      "submissionUrl": "https://codeforces.com/gym/100132/submission/2679442"
+    },
+    {
+      "type": "codeforces",
+      "id": 2679269,
+      "creationTime": 1354263611,
+      "language": "GNU C++",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Nerevar",
+          "MikeMirzayanov"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1354255500,
+        "teamName": "Saratov SU Coaches"
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "100132H",
+        "name": "Странный город",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/100132/problem/H"
+      },
+      "submissionUrl": "https://codeforces.com/gym/100132/submission/2679269"
+    },
+    {
+      "type": "codeforces",
+      "id": 2679254,
+      "creationTime": 1354263397,
+      "language": "GNU C++",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Nerevar",
+          "MikeMirzayanov"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1354255500,
+        "teamName": "Saratov SU Coaches"
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "100132H",
+        "name": "Странный город",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/100132/problem/H"
+      },
+      "submissionUrl": "https://codeforces.com/gym/100132/submission/2679254"
+    },
+    {
+      "type": "codeforces",
+      "id": 2679249,
+      "creationTime": 1354263292,
+      "language": "GNU C++",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "Nerevar",
+          "MikeMirzayanov"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1354255500,
+        "teamName": "Saratov SU Coaches"
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "100132H",
+        "name": "Странный город",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/100132/problem/H"
+      },
+      "submissionUrl": "https://codeforces.com/gym/100132/submission/2679249"
+    },
+    {
+      "type": "codeforces",
+      "id": 2679177,
+      "creationTime": 1354261828,
+      "language": "GNU C++",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Nerevar",
+          "MikeMirzayanov"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1354255500,
+        "teamName": "Saratov SU Coaches"
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "100132K",
+        "name": "Вампирские числа",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/100132/problem/K"
+      },
+      "submissionUrl": "https://codeforces.com/gym/100132/submission/2679177"
+    },
+    {
+      "type": "codeforces",
+      "id": 2679115,
+      "creationTime": 1354260028,
+      "language": "GNU C++",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Nerevar",
+          "MikeMirzayanov"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1354255500,
+        "teamName": "Saratov SU Coaches"
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "100132D",
+        "name": "Лесопосадки",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/100132/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/gym/100132/submission/2679115"
+    },
+    {
+      "type": "codeforces",
+      "id": 2679084,
+      "creationTime": 1354259428,
+      "language": "GNU C++",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Nerevar",
+          "MikeMirzayanov"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1354255500,
+        "teamName": "Saratov SU Coaches"
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "100132B",
+        "name": "Хаотическая перестановка",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/100132/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/gym/100132/submission/2679084"
+    },
+    {
+      "type": "codeforces",
+      "id": 2679064,
+      "creationTime": 1354258912,
+      "language": "GNU C++",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Nerevar",
+          "MikeMirzayanov"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1354255500,
+        "teamName": "Saratov SU Coaches"
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "100132E",
+        "name": "Академия Джедаев",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/100132/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/gym/100132/submission/2679064"
+    },
+    {
+      "type": "codeforces",
+      "id": 2679012,
+      "creationTime": 1354257384,
+      "language": "GNU C++",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Nerevar",
+          "MikeMirzayanov"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1354255500,
+        "teamName": "Saratov SU Coaches"
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "100132I",
+        "name": "Длинный питон",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/100132/problem/I"
+      },
+      "submissionUrl": "https://codeforces.com/gym/100132/submission/2679012"
+    },
+    {
+      "type": "codeforces",
+      "id": 2678983,
+      "creationTime": 1354256606,
+      "language": "GNU C++",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Nerevar",
+          "MikeMirzayanov"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1354255500,
+        "teamName": "Saratov SU Coaches"
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "100132G",
+        "name": "Топот котов",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/100132/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/gym/100132/submission/2678983"
+    },
+    {
+      "type": "codeforces",
+      "id": 2678951,
+      "creationTime": 1354256037,
+      "language": "GNU C++",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "Nerevar",
+          "MikeMirzayanov"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1354255500,
+        "teamName": "Saratov SU Coaches"
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "100132A",
+        "name": "Рекламный щит",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/100132/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/gym/100132/submission/2678951"
+    },
+    {
+      "type": "codeforces",
+      "id": 2250322,
+      "creationTime": 1348584732,
+      "language": "Delphi",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -798898915
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "183A",
+        "name": "Headquarters",
+        "rating": 1700,
+        "tags": [
+          "constructive algorithms",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/183/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/183/submission/2250322"
+    },
+    {
+      "type": "codeforces",
+      "id": 2048011,
+      "creationTime": 1345888434,
+      "language": "D",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -801595213
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1A",
+        "name": "Theatre Square",
+        "rating": 1000,
+        "tags": [
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1/submission/2048011"
+    },
+    {
+      "type": "codeforces",
+      "id": 1920911,
+      "creationTime": 1342917357,
+      "language": "GNU C++",
+      "verdict": "COMPILATION_ERROR",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -804566290
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1A",
+        "name": "Theatre Square",
+        "rating": 1000,
+        "tags": [
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1/submission/1920911"
+    },
+    {
+      "type": "codeforces",
+      "id": 1805773,
+      "creationTime": 1339828835,
+      "language": "GNU C++",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1339826520
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "100058D",
+        "name": "ГАС Очередь",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/100058/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/gym/100058/submission/1805773"
+    },
+    {
+      "type": "codeforces",
+      "id": 1805766,
+      "creationTime": 1339828625,
+      "language": "GNU C++",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1339826520
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "100058D",
+        "name": "ГАС Очередь",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/100058/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/gym/100058/submission/1805766"
+    },
+    {
+      "type": "codeforces",
+      "id": 1805737,
+      "creationTime": 1339827894,
+      "language": "GNU C++",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1339826520
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "100058C",
+        "name": "Часы",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/100058/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/gym/100058/submission/1805737"
+    },
+    {
+      "type": "codeforces",
+      "id": 1805707,
+      "creationTime": 1339827152,
+      "language": "GNU C++",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1339826520
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "100058B",
+        "name": "Игра",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/100058/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/gym/100058/submission/1805707"
+    },
+    {
+      "type": "codeforces",
+      "id": 1805701,
+      "creationTime": 1339826852,
+      "language": "GNU C++",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1339826520
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "100058A",
+        "name": "Шоколадка",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/100058/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/gym/100058/submission/1805701"
+    },
+    {
+      "type": "codeforces",
+      "id": 1805697,
+      "creationTime": 1339826735,
+      "language": "GNU C++",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1339826520
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "100058A",
+        "name": "Шоколадка",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/100058/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/gym/100058/submission/1805697"
+    },
+    {
+      "type": "codeforces",
+      "id": 1805653,
+      "creationTime": 1339825062,
+      "language": "GNU C++",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -807658585
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "100057A",
+        "name": "Перевод времени",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/100057/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/gym/100057/submission/1805653"
+    },
+    {
+      "type": "codeforces",
+      "id": 1805221,
+      "creationTime": 1339787309,
+      "language": "GNU C++",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1339779000
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "100057C",
+        "name": "Разбиения таблицы",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/100057/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/gym/100057/submission/1805221"
+    },
+    {
+      "type": "codeforces",
+      "id": 1805219,
+      "creationTime": 1339787263,
+      "language": "GNU C++",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1339779001
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "100057C",
+        "name": "Разбиения таблицы",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/100057/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/gym/100057/submission/1805219"
+    },
+    {
+      "type": "codeforces",
+      "id": 1805135,
+      "creationTime": 1339783314,
+      "language": "GNU C++",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1339779000
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "100057B",
+        "name": "Обратная задача о черепашке",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/100057/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/gym/100057/submission/1805135"
+    },
+    {
+      "type": "codeforces",
+      "id": 1774469,
+      "creationTime": 1339312719,
+      "language": "GNU C++",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1339305600
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "100059E",
+        "name": "Текстовый редактор",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/100059/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/gym/100059/submission/1774469"
+    },
+    {
+      "type": "codeforces",
+      "id": 1774461,
+      "creationTime": 1339312157,
+      "language": "GNU C++",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1339305600
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "100059E",
+        "name": "Текстовый редактор",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/100059/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/gym/100059/submission/1774461"
+    },
+    {
+      "type": "codeforces",
+      "id": 1774459,
+      "creationTime": 1339312131,
+      "language": "GNU C++",
+      "verdict": "RUNTIME_ERROR",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1339305600
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "100059E",
+        "name": "Текстовый редактор",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/100059/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/gym/100059/submission/1774459"
+    },
+    {
+      "type": "codeforces",
+      "id": 1774423,
+      "creationTime": 1339310358,
+      "language": "GNU C++",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1339305600
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "100059C",
+        "name": "Тетраэдр",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/100059/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/gym/100059/submission/1774423"
+    },
+    {
+      "type": "codeforces",
+      "id": 1774399,
+      "creationTime": 1339308416,
+      "language": "GNU C++",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1339305601
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "100059B",
+        "name": "Ключ к шифру",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/100059/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/gym/100059/submission/1774399"
+    },
+    {
+      "type": "codeforces",
+      "id": 1774384,
+      "creationTime": 1339307392,
+      "language": "GNU C++",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1339305600
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "100059D",
+        "name": "Задачи",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/100059/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/gym/100059/submission/1774384"
+    },
+    {
+      "type": "codeforces",
+      "id": 1774349,
+      "creationTime": 1339305764,
+      "language": "GNU C++",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "VIRTUAL",
+        "participantTime": 1339305600
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "100059A",
+        "name": "Простая задача",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/100059/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/gym/100059/submission/1774349"
+    },
+    {
+      "type": "codeforces",
+      "id": 1649987,
+      "creationTime": 1335990599,
+      "language": "Delphi",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -811493048
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "177B1",
+        "name": "Rectangular Game",
+        "rating": 1000,
+        "tags": [
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/177/problem/B1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/177/submission/1649987"
+    },
+    {
+      "type": "codeforces",
+      "id": 1418597,
+      "creationTime": 1332743464,
+      "language": "MS C++",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -814740183
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "163B",
+        "name": "Lemmings",
+        "rating": 2000,
+        "tags": [
+          "binary search"
+        ],
+        "problemUrl": "https://codeforces.com/contest/163/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/163/submission/1418597"
+    },
+    {
+      "type": "codeforces",
+      "id": 1418595,
+      "creationTime": 1332743349,
+      "language": "GNU C++",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -814740298
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "163B",
+        "name": "Lemmings",
+        "rating": 2000,
+        "tags": [
+          "binary search"
+        ],
+        "problemUrl": "https://codeforces.com/contest/163/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/163/submission/1418595"
+    },
+    {
+      "type": "codeforces",
+      "id": 1418586,
+      "creationTime": 1332743219,
+      "language": "GNU C++",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -814740428
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "163B",
+        "name": "Lemmings",
+        "rating": 2000,
+        "tags": [
+          "binary search"
+        ],
+        "problemUrl": "https://codeforces.com/contest/163/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/163/submission/1418586"
+    },
+    {
+      "type": "codeforces",
+      "id": 1418556,
+      "creationTime": 1332742541,
+      "language": "GNU C++",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -814741106
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "163B",
+        "name": "Lemmings",
+        "rating": 2000,
+        "tags": [
+          "binary search"
+        ],
+        "problemUrl": "https://codeforces.com/contest/163/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/163/submission/1418556"
+    },
+    {
+      "type": "codeforces",
+      "id": 1353924,
+      "creationTime": 1331620495,
+      "language": "MS C++",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -815863152
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "161D",
+        "name": "Distance in Tree",
+        "rating": 1800,
+        "tags": [
+          "dfs and similar",
+          "dp",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/161/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/161/submission/1353924"
+    },
+    {
+      "type": "codeforces",
+      "id": 1353923,
+      "creationTime": 1331620454,
+      "language": "GNU C++",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -815863193
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "161D",
+        "name": "Distance in Tree",
+        "rating": 1800,
+        "tags": [
+          "dfs and similar",
+          "dp",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/161/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/161/submission/1353923"
+    },
+    {
+      "type": "codeforces",
+      "id": 1294444,
+      "creationTime": 1331043488,
+      "language": "Delphi",
+      "verdict": "IDLENESS_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -816440159
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "111A",
+        "name": "Petya and Inequiations",
+        "rating": 1400,
+        "tags": [
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/111/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/111/submission/1294444"
+    },
+    {
+      "type": "codeforces",
+      "id": 1294443,
+      "creationTime": 1331043468,
+      "language": "Delphi",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -816440179
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "111A",
+        "name": "Petya and Inequiations",
+        "rating": 1400,
+        "tags": [
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/111/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/111/submission/1294443"
+    },
+    {
+      "type": "codeforces",
+      "id": 1294439,
+      "creationTime": 1331043441,
+      "language": "Delphi",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -816440206
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "111A",
+        "name": "Petya and Inequiations",
+        "rating": 1400,
+        "tags": [
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/111/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/111/submission/1294439"
+    },
+    {
+      "type": "codeforces",
+      "id": 1148985,
+      "creationTime": 1328361887,
+      "language": "Ruby",
+      "verdict": "RUNTIME_ERROR",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -819121760
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "148E",
+        "name": "Porcelain",
+        "rating": 1900,
+        "tags": [
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/148/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/148/submission/1148985"
+    },
+    {
+      "type": "codeforces",
+      "id": 1111923,
+      "creationTime": 1327303248,
+      "language": "Perl",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -820180399
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "146A",
+        "name": "Lucky Ticket",
+        "rating": 800,
+        "tags": [
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/146/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/146/submission/1111923"
+    },
+    {
+      "type": "codeforces",
+      "id": 1111922,
+      "creationTime": 1327303220,
+      "language": "Perl",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -820180427
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "146A",
+        "name": "Lucky Ticket",
+        "rating": 800,
+        "tags": [
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/146/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/146/submission/1111922"
+    },
+    {
+      "type": "codeforces",
+      "id": 1111920,
+      "creationTime": 1327303113,
+      "language": "Perl",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -820180534
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "147A",
+        "name": "Punctuation",
+        "rating": 1300,
+        "tags": [
+          "implementation",
+          "strings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/147/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/147/submission/1111920"
+    },
+    {
+      "type": "codeforces",
+      "id": 992991,
+      "creationTime": 1325332813,
+      "language": "GNU C++",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -822150834
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "75D",
+        "name": "Big Maximum Sum",
+        "rating": 2000,
+        "tags": [
+          "data structures",
+          "dp",
+          "greedy",
+          "implementation",
+          "math",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/75/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/75/submission/992991"
+    },
+    {
+      "type": "codeforces",
+      "id": 929316,
+      "creationTime": 1322998369,
+      "language": "Ocaml",
+      "verdict": "COMPILATION_ERROR",
+      "author": {
+        "members": [
+          "MikeMirzayanov"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": 1322924400
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "132C",
+        "name": "Logo Turtle",
+        "rating": 1800,
+        "tags": [
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/132/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/132/submission/929316"
+    }
+  ]
+}
