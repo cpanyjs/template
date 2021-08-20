@@ -1,6 +1,14 @@
 users:
   tourist:
     codeforces/handle: tourist
+  Petr:
+    codeforces/handle: Petr
+  Benq:
+    codeforces/handle: Benq
+  ksun48:
+    codeforces/handle: ksun48
+  sunset:
+    codeforces/handle: sunset
 
 handles:
   - codeforces/handle
