@@ -5,11 +5,556 @@
   "avatar": "https://userpic.codeforces.org/422/title/50a270ed4a722867.jpg",
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3819,
+    "rating": 3707,
     "maxRank": "legendary grandmaster",
     "maxRating": 3822
   },
   "submissions": [
+    {
+      "type": "codeforces",
+      "id": 128662489,
+      "creationTime": 1631466257,
+      "language": "GNU C++17 (64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1631457300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1566H",
+        "name": "Xor-quiz",
+        "tags": [
+          "constructive algorithms",
+          "dp",
+          "interactive",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1566/problem/H"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1566/submission/128662489"
+    },
+    {
+      "type": "codeforces",
+      "id": 128661097,
+      "creationTime": 1631465990,
+      "language": "GNU C++17 (64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1631457300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1566H",
+        "name": "Xor-quiz",
+        "tags": [
+          "constructive algorithms",
+          "dp",
+          "interactive",
+          "math",
+          "number theory"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1566/problem/H"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1566/submission/128661097"
+    },
+    {
+      "type": "codeforces",
+      "id": 128640874,
+      "creationTime": 1631461908,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1631457300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1566G",
+        "name": "Four Vertices",
+        "tags": [
+          "constructive algorithms",
+          "data structures",
+          "divide and conquer",
+          "graphs",
+          "greedy",
+          "implementation",
+          "shortest paths"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1566/problem/G"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1566/submission/128640874"
+    },
+    {
+      "type": "codeforces",
+      "id": 128621552,
+      "creationTime": 1631459666,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1631457300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1566E",
+        "name": "Buds Re-hanging",
+        "tags": [
+          "data structures",
+          "dfs and similar",
+          "greedy",
+          "trees"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1566/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1566/submission/128621552"
+    },
+    {
+      "type": "codeforces",
+      "id": 128617140,
+      "creationTime": 1631459270,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1631457300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1566F",
+        "name": "Points Movement",
+        "tags": [
+          "binary search",
+          "data structures",
+          "dp"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1566/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1566/submission/128617140"
+    },
+    {
+      "type": "codeforces",
+      "id": 128603706,
+      "creationTime": 1631458247,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1631457300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1566D2",
+        "name": "Seating Arrangements (hard version) ",
+        "tags": [
+          "data structures",
+          "greedy",
+          "implementation",
+          "sortings",
+          "two pointers"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1566/problem/D2"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1566/submission/128603706"
+    },
+    {
+      "type": "codeforces",
+      "id": 128603542,
+      "creationTime": 1631458233,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1631457300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1566D1",
+        "name": "Seating Arrangements (easy version) ",
+        "tags": [
+          "data structures",
+          "greedy",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1566/problem/D1"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1566/submission/128603542"
+    },
+    {
+      "type": "codeforces",
+      "id": 128596029,
+      "creationTime": 1631457697,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1631457300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1566C",
+        "name": "MAX-MEX Cut",
+        "tags": [
+          "bitmasks",
+          "constructive algorithms",
+          "dp",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1566/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1566/submission/128596029"
+    },
+    {
+      "type": "codeforces",
+      "id": 128593612,
+      "creationTime": 1631457495,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1631457300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1566B",
+        "name": "MIN-MEX Cut",
+        "tags": [
+          "bitmasks",
+          "constructive algorithms",
+          "dp",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1566/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1566/submission/128593612"
+    },
+    {
+      "type": "codeforces",
+      "id": 128592918,
+      "creationTime": 1631457374,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1631457300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1566A",
+        "name": "Median Maximization",
+        "tags": [
+          "greedy",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1566/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1566/submission/128592918"
+    },
+    {
+      "type": "codeforces",
+      "id": 127391959,
+      "creationTime": 1630256696,
+      "language": "GNU C++17 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1630247700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1556H",
+        "name": "DIY Tree",
+        "rating": 3300,
+        "tags": [
+          "graphs",
+          "greedy",
+          "math",
+          "probabilities"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1556/problem/H"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1556/submission/127391959"
+    },
+    {
+      "type": "codeforces",
+      "id": 127391053,
+      "creationTime": 1630256606,
+      "language": "GNU C++17 (64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1630247700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1556H",
+        "name": "DIY Tree",
+        "rating": 3300,
+        "tags": [
+          "graphs",
+          "greedy",
+          "math",
+          "probabilities"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1556/problem/H"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1556/submission/127391053"
+    },
+    {
+      "type": "codeforces",
+      "id": 127390934,
+      "creationTime": 1630256589,
+      "language": "GNU C++17 (64)",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1630247700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1556H",
+        "name": "DIY Tree",
+        "rating": 3300,
+        "tags": [
+          "graphs",
+          "greedy",
+          "math",
+          "probabilities"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1556/problem/H"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1556/submission/127390934"
+    },
+    {
+      "type": "codeforces",
+      "id": 127360380,
+      "creationTime": 1630250735,
+      "language": "GNU C++17 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1630247700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1556H",
+        "name": "DIY Tree",
+        "rating": 3300,
+        "tags": [
+          "graphs",
+          "greedy",
+          "math",
+          "probabilities"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1556/problem/H"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1556/submission/127360380"
+    },
+    {
+      "type": "codeforces",
+      "id": 127351493,
+      "creationTime": 1630249390,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1630247700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1556E",
+        "name": "Equilibrium",
+        "rating": 2200,
+        "tags": [
+          "data structures",
+          "dp",
+          "greedy"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1556/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1556/submission/127351493"
+    },
+    {
+      "type": "codeforces",
+      "id": 127348628,
+      "creationTime": 1630249001,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1630247700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1556F",
+        "name": "Sports Betting",
+        "rating": 2500,
+        "tags": [
+          "bitmasks",
+          "combinatorics",
+          "dp",
+          "graphs",
+          "math",
+          "probabilities"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1556/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1556/submission/127348628"
+    },
+    {
+      "type": "codeforces",
+      "id": 127345896,
+      "creationTime": 1630248674,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1630247700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1556D",
+        "name": "Take a Guess",
+        "rating": 1800,
+        "tags": [
+          "bitmasks",
+          "constructive algorithms",
+          "interactive",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1556/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1556/submission/127345896"
+    },
+    {
+      "type": "codeforces",
+      "id": 127343186,
+      "creationTime": 1630248416,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1630247700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1556C",
+        "name": "Compressed Bracket Sequence",
+        "rating": 1800,
+        "tags": [
+          "brute force",
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1556/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1556/submission/127343186"
+    },
+    {
+      "type": "codeforces",
+      "id": 127334891,
+      "creationTime": 1630247861,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1630247700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1556B",
+        "name": "Take Your Places!",
+        "rating": 1300,
+        "tags": [
+          "implementation"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1556/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1556/submission/127334891"
+    },
+    {
+      "type": "codeforces",
+      "id": 127334443,
+      "creationTime": 1630247768,
+      "language": "GNU C++17 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "tourist"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1630247700
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1556A",
+        "name": "A Variety of Operations",
+        "rating": 800,
+        "tags": [
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1556/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1556/submission/127334443"
+    },
     {
       "type": "codeforces",
       "id": 125377874,
@@ -24123,8 +24668,8 @@
       "verdict": "OK",
       "author": {
         "members": [
-          "VArtem",
           "andrewzta",
+          "VArtem",
           "tourist"
         ],
         "participantType": "CONTESTANT",
@@ -24148,8 +24693,8 @@
       "verdict": "OK",
       "author": {
         "members": [
-          "VArtem",
           "andrewzta",
+          "VArtem",
           "tourist"
         ],
         "participantType": "CONTESTANT",
@@ -24177,8 +24722,8 @@
       "verdict": "OK",
       "author": {
         "members": [
-          "VArtem",
           "andrewzta",
+          "VArtem",
           "tourist"
         ],
         "participantType": "CONTESTANT",
@@ -24202,8 +24747,8 @@
       "verdict": "OK",
       "author": {
         "members": [
-          "VArtem",
           "andrewzta",
+          "VArtem",
           "tourist"
         ],
         "participantType": "CONTESTANT",
@@ -24227,8 +24772,8 @@
       "verdict": "OK",
       "author": {
         "members": [
-          "VArtem",
           "andrewzta",
+          "VArtem",
           "tourist"
         ],
         "participantType": "CONTESTANT",
@@ -24252,8 +24797,8 @@
       "verdict": "OK",
       "author": {
         "members": [
-          "VArtem",
           "andrewzta",
+          "VArtem",
           "tourist"
         ],
         "participantType": "CONTESTANT",
@@ -24279,8 +24824,8 @@
       "verdict": "MEMORY_LIMIT_EXCEEDED",
       "author": {
         "members": [
-          "VArtem",
           "andrewzta",
+          "VArtem",
           "tourist"
         ],
         "participantType": "CONTESTANT",
@@ -24306,8 +24851,8 @@
       "verdict": "OK",
       "author": {
         "members": [
-          "VArtem",
           "andrewzta",
+          "VArtem",
           "tourist"
         ],
         "participantType": "CONTESTANT",
@@ -24333,8 +24878,8 @@
       "verdict": "TIME_LIMIT_EXCEEDED",
       "author": {
         "members": [
-          "VArtem",
           "andrewzta",
+          "VArtem",
           "tourist"
         ],
         "participantType": "CONTESTANT",
@@ -24360,8 +24905,8 @@
       "verdict": "OK",
       "author": {
         "members": [
-          "VArtem",
           "andrewzta",
+          "VArtem",
           "tourist"
         ],
         "participantType": "CONTESTANT",
@@ -41247,8 +41792,8 @@
       "verdict": "OK",
       "author": {
         "members": [
-          "tourist",
-          "VArtem"
+          "VArtem",
+          "tourist"
         ],
         "participantType": "CONTESTANT",
         "participantTime": 1504432800,
@@ -41275,8 +41820,8 @@
       "verdict": "OK",
       "author": {
         "members": [
-          "tourist",
-          "VArtem"
+          "VArtem",
+          "tourist"
         ],
         "participantType": "CONTESTANT",
         "participantTime": 1504432800,
@@ -41304,8 +41849,8 @@
       "verdict": "TIME_LIMIT_EXCEEDED",
       "author": {
         "members": [
-          "tourist",
-          "VArtem"
+          "VArtem",
+          "tourist"
         ],
         "participantType": "CONTESTANT",
         "participantTime": 1504432801,
@@ -41333,8 +41878,8 @@
       "verdict": "OK",
       "author": {
         "members": [
-          "tourist",
-          "VArtem"
+          "VArtem",
+          "tourist"
         ],
         "participantType": "CONTESTANT",
         "participantTime": 1504432800,
@@ -41363,8 +41908,8 @@
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
-          "tourist",
-          "VArtem"
+          "VArtem",
+          "tourist"
         ],
         "participantType": "CONTESTANT",
         "participantTime": 1504432800,
@@ -41393,8 +41938,8 @@
       "verdict": "OK",
       "author": {
         "members": [
-          "tourist",
-          "VArtem"
+          "VArtem",
+          "tourist"
         ],
         "participantType": "CONTESTANT",
         "participantTime": 1504432800,
@@ -41423,8 +41968,8 @@
       "verdict": "OK",
       "author": {
         "members": [
-          "tourist",
-          "VArtem"
+          "VArtem",
+          "tourist"
         ],
         "participantType": "CONTESTANT",
         "participantTime": 1504432800,
@@ -41451,8 +41996,8 @@
       "verdict": "TIME_LIMIT_EXCEEDED",
       "author": {
         "members": [
-          "tourist",
-          "VArtem"
+          "VArtem",
+          "tourist"
         ],
         "participantType": "CONTESTANT",
         "participantTime": 1504432800,
@@ -41480,8 +42025,8 @@
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
-          "tourist",
-          "VArtem"
+          "VArtem",
+          "tourist"
         ],
         "participantType": "CONTESTANT",
         "participantTime": 1504432800,
@@ -41508,8 +42053,8 @@
       "verdict": "OK",
       "author": {
         "members": [
-          "tourist",
-          "VArtem"
+          "VArtem",
+          "tourist"
         ],
         "participantType": "CONTESTANT",
         "participantTime": 1504432800,
@@ -41535,8 +42080,8 @@
       "verdict": "OK",
       "author": {
         "members": [
-          "tourist",
-          "VArtem"
+          "VArtem",
+          "tourist"
         ],
         "participantType": "CONTESTANT",
         "participantTime": 1504432800,
@@ -41562,8 +42107,8 @@
       "verdict": "OK",
       "author": {
         "members": [
-          "tourist",
-          "VArtem"
+          "VArtem",
+          "tourist"
         ],
         "participantType": "CONTESTANT",
         "participantTime": 1504432800,
@@ -41591,8 +42136,8 @@
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
-          "tourist",
-          "VArtem"
+          "VArtem",
+          "tourist"
         ],
         "participantType": "CONTESTANT",
         "participantTime": 1504432800,
@@ -41618,8 +42163,8 @@
       "verdict": "OK",
       "author": {
         "members": [
-          "tourist",
-          "VArtem"
+          "VArtem",
+          "tourist"
         ],
         "participantType": "CONTESTANT",
         "participantTime": 1504432800,
@@ -45249,8 +45794,8 @@
       "verdict": "OK",
       "author": {
         "members": [
-          "subscriber",
-          "tourist"
+          "tourist",
+          "subscriber"
         ],
         "participantType": "CONTESTANT",
         "participantTime": 1467534000,
@@ -45277,8 +45822,8 @@
       "verdict": "OK",
       "author": {
         "members": [
-          "subscriber",
-          "tourist"
+          "tourist",
+          "subscriber"
         ],
         "participantType": "CONTESTANT",
         "participantTime": 1467534000,
@@ -45305,8 +45850,8 @@
       "verdict": "SKIPPED",
       "author": {
         "members": [
-          "subscriber",
-          "tourist"
+          "tourist",
+          "subscriber"
         ],
         "participantType": "CONTESTANT",
         "participantTime": 1467534000,
@@ -45333,8 +45878,8 @@
       "verdict": "OK",
       "author": {
         "members": [
-          "subscriber",
-          "tourist"
+          "tourist",
+          "subscriber"
         ],
         "participantType": "CONTESTANT",
         "participantTime": 1467534000,
@@ -45360,8 +45905,8 @@
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
-          "subscriber",
-          "tourist"
+          "tourist",
+          "subscriber"
         ],
         "participantType": "CONTESTANT",
         "participantTime": 1467534000,
@@ -45387,8 +45932,8 @@
       "verdict": "OK",
       "author": {
         "members": [
-          "subscriber",
-          "tourist"
+          "tourist",
+          "subscriber"
         ],
         "participantType": "CONTESTANT",
         "participantTime": 1467534001,
@@ -45412,8 +45957,8 @@
       "verdict": "OK",
       "author": {
         "members": [
-          "subscriber",
-          "tourist"
+          "tourist",
+          "subscriber"
         ],
         "participantType": "CONTESTANT",
         "participantTime": 1467534000,
@@ -45439,8 +45984,8 @@
       "verdict": "OK",
       "author": {
         "members": [
-          "subscriber",
-          "tourist"
+          "tourist",
+          "subscriber"
         ],
         "participantType": "CONTESTANT",
         "participantTime": 1467534001,
@@ -45469,8 +46014,8 @@
       "verdict": "CHALLENGED",
       "author": {
         "members": [
-          "subscriber",
-          "tourist"
+          "tourist",
+          "subscriber"
         ],
         "participantType": "CONTESTANT",
         "participantTime": 1467534001,
@@ -45499,8 +46044,8 @@
       "verdict": "OK",
       "author": {
         "members": [
-          "tourist",
-          "subscriber"
+          "subscriber",
+          "tourist"
         ],
         "participantType": "VIRTUAL",
         "participantTime": 1467364020,
@@ -45529,8 +46074,8 @@
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
-          "tourist",
-          "subscriber"
+          "subscriber",
+          "tourist"
         ],
         "participantType": "VIRTUAL",
         "participantTime": 1467364020,
@@ -45559,8 +46104,8 @@
       "verdict": "OK",
       "author": {
         "members": [
-          "tourist",
-          "subscriber"
+          "subscriber",
+          "tourist"
         ],
         "participantType": "VIRTUAL",
         "participantTime": 1467364020,
@@ -45588,8 +46133,8 @@
       "verdict": "OK",
       "author": {
         "members": [
-          "tourist",
-          "subscriber"
+          "subscriber",
+          "tourist"
         ],
         "participantType": "VIRTUAL",
         "participantTime": 1467364020,
@@ -45616,8 +46161,8 @@
       "verdict": "OK",
       "author": {
         "members": [
-          "tourist",
-          "subscriber"
+          "subscriber",
+          "tourist"
         ],
         "participantType": "VIRTUAL",
         "participantTime": 1467364020,
@@ -45646,8 +46191,8 @@
       "verdict": "OK",
       "author": {
         "members": [
-          "tourist",
-          "subscriber"
+          "subscriber",
+          "tourist"
         ],
         "participantType": "VIRTUAL",
         "participantTime": 1467364020,
@@ -46217,8 +46762,8 @@
       "verdict": "OK",
       "author": {
         "members": [
-          "subscriber",
-          "tourist"
+          "tourist",
+          "subscriber"
         ],
         "participantType": "CONTESTANT",
         "participantTime": 1461515700,
@@ -46242,8 +46787,8 @@
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
-          "subscriber",
-          "tourist"
+          "tourist",
+          "subscriber"
         ],
         "participantType": "CONTESTANT",
         "participantTime": 1461515700,
@@ -46267,8 +46812,8 @@
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
-          "subscriber",
-          "tourist"
+          "tourist",
+          "subscriber"
         ],
         "participantType": "CONTESTANT",
         "participantTime": 1461515700,
@@ -46292,8 +46837,8 @@
       "verdict": "OK",
       "author": {
         "members": [
-          "subscriber",
-          "tourist"
+          "tourist",
+          "subscriber"
         ],
         "participantType": "CONTESTANT",
         "participantTime": 1461515700,
@@ -46322,8 +46867,8 @@
       "verdict": "OK",
       "author": {
         "members": [
-          "subscriber",
-          "tourist"
+          "tourist",
+          "subscriber"
         ],
         "participantType": "CONTESTANT",
         "participantTime": 1461515700,
@@ -46351,8 +46896,8 @@
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
-          "subscriber",
-          "tourist"
+          "tourist",
+          "subscriber"
         ],
         "participantType": "CONTESTANT",
         "participantTime": 1461515700,
@@ -46381,8 +46926,8 @@
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
-          "subscriber",
-          "tourist"
+          "tourist",
+          "subscriber"
         ],
         "participantType": "CONTESTANT",
         "participantTime": 1461515700,
@@ -46410,8 +46955,8 @@
       "verdict": "OK",
       "author": {
         "members": [
-          "subscriber",
-          "tourist"
+          "tourist",
+          "subscriber"
         ],
         "participantType": "CONTESTANT",
         "participantTime": 1461515700,
@@ -46437,8 +46982,8 @@
       "verdict": "OK",
       "author": {
         "members": [
-          "subscriber",
-          "tourist"
+          "tourist",
+          "subscriber"
         ],
         "participantType": "CONTESTANT",
         "participantTime": 1461515700,
@@ -46464,8 +47009,8 @@
       "verdict": "OK",
       "author": {
         "members": [
-          "subscriber",
-          "tourist"
+          "tourist",
+          "subscriber"
         ],
         "participantType": "CONTESTANT",
         "participantTime": 1461515700,
@@ -47157,8 +47702,8 @@
       "verdict": "OK",
       "author": {
         "members": [
-          "tourist",
-          "subscriber"
+          "subscriber",
+          "tourist"
         ],
         "participantType": "CONTESTANT",
         "participantTime": 1457870400,
@@ -47187,8 +47732,8 @@
       "verdict": "OK",
       "author": {
         "members": [
-          "tourist",
-          "subscriber"
+          "subscriber",
+          "tourist"
         ],
         "participantType": "CONTESTANT",
         "participantTime": 1457870400,
@@ -47217,8 +47762,8 @@
       "verdict": "OK",
       "author": {
         "members": [
-          "tourist",
-          "subscriber"
+          "subscriber",
+          "tourist"
         ],
         "participantType": "CONTESTANT",
         "participantTime": 1457870400,
@@ -47248,8 +47793,8 @@
       "verdict": "OK",
       "author": {
         "members": [
-          "tourist",
-          "subscriber"
+          "subscriber",
+          "tourist"
         ],
         "participantType": "CONTESTANT",
         "participantTime": 1457870400,
@@ -49301,6 +49846,8 @@
         "rating": 1800,
         "tags": [
           "combinatorics",
+          "dp",
+          "math",
           "number theory"
         ],
         "problemUrl": "https://codeforces.com/contest/575/problem/H"
@@ -49558,8 +50105,8 @@
       "verdict": "OK",
       "author": {
         "members": [
-          "tourist",
-          "niyaznigmatul"
+          "niyaznigmatul",
+          "tourist"
         ],
         "participantType": "CONTESTANT",
         "participantTime": 1437898500,
@@ -49583,8 +50130,8 @@
       "verdict": "RUNTIME_ERROR",
       "author": {
         "members": [
-          "tourist",
-          "niyaznigmatul"
+          "niyaznigmatul",
+          "tourist"
         ],
         "participantType": "CONTESTANT",
         "participantTime": 1437898501,
@@ -49608,8 +50155,8 @@
       "verdict": "OK",
       "author": {
         "members": [
-          "tourist",
-          "niyaznigmatul"
+          "niyaznigmatul",
+          "tourist"
         ],
         "participantType": "CONTESTANT",
         "participantTime": 1437898500,
@@ -49633,8 +50180,8 @@
       "verdict": "OK",
       "author": {
         "members": [
-          "tourist",
-          "niyaznigmatul"
+          "niyaznigmatul",
+          "tourist"
         ],
         "participantType": "CONTESTANT",
         "participantTime": 1437898500,
@@ -49658,8 +50205,8 @@
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
-          "tourist",
-          "niyaznigmatul"
+          "niyaznigmatul",
+          "tourist"
         ],
         "participantType": "CONTESTANT",
         "participantTime": 1437898501,
@@ -49683,8 +50230,8 @@
       "verdict": "MEMORY_LIMIT_EXCEEDED",
       "author": {
         "members": [
-          "tourist",
-          "niyaznigmatul"
+          "niyaznigmatul",
+          "tourist"
         ],
         "participantType": "CONTESTANT",
         "participantTime": 1437898500,
@@ -49708,8 +50255,8 @@
       "verdict": "OK",
       "author": {
         "members": [
-          "tourist",
-          "niyaznigmatul"
+          "niyaznigmatul",
+          "tourist"
         ],
         "participantType": "CONTESTANT",
         "participantTime": 1437898500,
@@ -49733,8 +50280,8 @@
       "verdict": "OK",
       "author": {
         "members": [
-          "tourist",
-          "niyaznigmatul"
+          "niyaznigmatul",
+          "tourist"
         ],
         "participantType": "CONTESTANT",
         "participantTime": 1437898500,
@@ -50020,8 +50567,8 @@
       "verdict": "OK",
       "author": {
         "members": [
-          "tourist",
-          "niyaznigmatul"
+          "niyaznigmatul",
+          "tourist"
         ],
         "participantType": "CONTESTANT",
         "participantTime": 1430668800,
@@ -50045,8 +50592,8 @@
       "verdict": "OK",
       "author": {
         "members": [
-          "tourist",
-          "niyaznigmatul"
+          "niyaznigmatul",
+          "tourist"
         ],
         "participantType": "CONTESTANT",
         "participantTime": 1430668800,
@@ -50070,8 +50617,8 @@
       "verdict": "OK",
       "author": {
         "members": [
-          "tourist",
-          "niyaznigmatul"
+          "niyaznigmatul",
+          "tourist"
         ],
         "participantType": "CONTESTANT",
         "participantTime": 1430668800,
@@ -50095,8 +50642,8 @@
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
-          "tourist",
-          "niyaznigmatul"
+          "niyaznigmatul",
+          "tourist"
         ],
         "participantType": "CONTESTANT",
         "participantTime": 1430668800,
@@ -50120,8 +50667,8 @@
       "verdict": "OK",
       "author": {
         "members": [
-          "tourist",
-          "niyaznigmatul"
+          "niyaznigmatul",
+          "tourist"
         ],
         "participantType": "CONTESTANT",
         "participantTime": 1430668800,
@@ -50145,8 +50692,8 @@
       "verdict": "OK",
       "author": {
         "members": [
-          "tourist",
-          "niyaznigmatul"
+          "niyaznigmatul",
+          "tourist"
         ],
         "participantType": "CONTESTANT",
         "participantTime": 1430668800,
@@ -50504,8 +51051,8 @@
       "verdict": "OK",
       "author": {
         "members": [
-          "tourist",
-          "niyaznigmatul"
+          "niyaznigmatul",
+          "tourist"
         ],
         "participantType": "CONTESTANT",
         "participantTime": 1426946400,
@@ -50535,8 +51082,8 @@
       "verdict": "SKIPPED",
       "author": {
         "members": [
-          "tourist",
-          "niyaznigmatul"
+          "niyaznigmatul",
+          "tourist"
         ],
         "participantType": "CONTESTANT",
         "participantTime": 1426946400,
@@ -50566,8 +51113,8 @@
       "verdict": "OK",
       "author": {
         "members": [
-          "tourist",
-          "niyaznigmatul"
+          "niyaznigmatul",
+          "tourist"
         ],
         "participantType": "CONTESTANT",
         "participantTime": 1426946400,
@@ -50594,8 +51141,8 @@
       "verdict": "OK",
       "author": {
         "members": [
-          "tourist",
-          "niyaznigmatul"
+          "niyaznigmatul",
+          "tourist"
         ],
         "participantType": "CONTESTANT",
         "participantTime": 1426946400,
@@ -50622,8 +51169,8 @@
       "verdict": "OK",
       "author": {
         "members": [
-          "tourist",
-          "niyaznigmatul"
+          "niyaznigmatul",
+          "tourist"
         ],
         "participantType": "CONTESTANT",
         "participantTime": 1426946400,
@@ -50650,8 +51197,8 @@
       "verdict": "OK",
       "author": {
         "members": [
-          "tourist",
-          "niyaznigmatul"
+          "niyaznigmatul",
+          "tourist"
         ],
         "participantType": "CONTESTANT",
         "participantTime": 1426946401,
@@ -50677,8 +51224,8 @@
       "verdict": "OK",
       "author": {
         "members": [
-          "tourist",
-          "niyaznigmatul"
+          "niyaznigmatul",
+          "tourist"
         ],
         "participantType": "CONTESTANT",
         "participantTime": 1426946400,
@@ -50705,8 +51252,8 @@
       "verdict": "OK",
       "author": {
         "members": [
-          "tourist",
-          "niyaznigmatul"
+          "niyaznigmatul",
+          "tourist"
         ],
         "participantType": "CONTESTANT",
         "participantTime": 1425740400,
@@ -50733,8 +51280,8 @@
       "verdict": "OK",
       "author": {
         "members": [
-          "tourist",
-          "niyaznigmatul"
+          "niyaznigmatul",
+          "tourist"
         ],
         "participantType": "CONTESTANT",
         "participantTime": 1425740400,
@@ -50764,8 +51311,8 @@
       "verdict": "OK",
       "author": {
         "members": [
-          "tourist",
-          "niyaznigmatul"
+          "niyaznigmatul",
+          "tourist"
         ],
         "participantType": "CONTESTANT",
         "participantTime": 1425740400,
@@ -50791,8 +51338,8 @@
       "verdict": "OK",
       "author": {
         "members": [
-          "tourist",
-          "niyaznigmatul"
+          "niyaznigmatul",
+          "tourist"
         ],
         "participantType": "CONTESTANT",
         "participantTime": 1425740400,
@@ -60011,9 +60558,9 @@
       "verdict": "OK",
       "author": {
         "members": [
-          "tourist",
+          "cerealguy",
           "niyaznigmatul",
-          "cerealguy"
+          "tourist"
         ],
         "participantType": "VIRTUAL",
         "participantTime": 1370341561,
@@ -60036,9 +60583,9 @@
       "verdict": "OK",
       "author": {
         "members": [
-          "tourist",
+          "cerealguy",
           "niyaznigmatul",
-          "cerealguy"
+          "tourist"
         ],
         "participantType": "VIRTUAL",
         "participantTime": 1370341560,
@@ -60061,9 +60608,9 @@
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
-          "tourist",
+          "cerealguy",
           "niyaznigmatul",
-          "cerealguy"
+          "tourist"
         ],
         "participantType": "VIRTUAL",
         "participantTime": 1370341560,
@@ -60086,9 +60633,9 @@
       "verdict": "OK",
       "author": {
         "members": [
-          "tourist",
+          "cerealguy",
           "niyaznigmatul",
-          "cerealguy"
+          "tourist"
         ],
         "participantType": "VIRTUAL",
         "participantTime": 1370341561,
@@ -60111,9 +60658,9 @@
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
-          "tourist",
+          "cerealguy",
           "niyaznigmatul",
-          "cerealguy"
+          "tourist"
         ],
         "participantType": "VIRTUAL",
         "participantTime": 1370341560,
@@ -60136,9 +60683,9 @@
       "verdict": "WRONG_ANSWER",
       "author": {
         "members": [
-          "tourist",
+          "cerealguy",
           "niyaznigmatul",
-          "cerealguy"
+          "tourist"
         ],
         "participantType": "VIRTUAL",
         "participantTime": 1370341560,
@@ -60161,9 +60708,9 @@
       "verdict": "OK",
       "author": {
         "members": [
-          "tourist",
+          "cerealguy",
           "niyaznigmatul",
-          "cerealguy"
+          "tourist"
         ],
         "participantType": "VIRTUAL",
         "participantTime": 1370341560,
@@ -60186,9 +60733,9 @@
       "verdict": "OK",
       "author": {
         "members": [
-          "tourist",
+          "cerealguy",
           "niyaznigmatul",
-          "cerealguy"
+          "tourist"
         ],
         "participantType": "VIRTUAL",
         "participantTime": 1370341560,
@@ -60211,9 +60758,9 @@
       "verdict": "OK",
       "author": {
         "members": [
-          "tourist",
+          "cerealguy",
           "niyaznigmatul",
-          "cerealguy"
+          "tourist"
         ],
         "participantType": "VIRTUAL",
         "participantTime": 1370341560,
@@ -60236,9 +60783,9 @@
       "verdict": "OK",
       "author": {
         "members": [
-          "tourist",
+          "cerealguy",
           "niyaznigmatul",
-          "cerealguy"
+          "tourist"
         ],
         "participantType": "VIRTUAL",
         "participantTime": 1370341560,
@@ -60261,9 +60808,9 @@
       "verdict": "OK",
       "author": {
         "members": [
-          "tourist",
+          "cerealguy",
           "niyaznigmatul",
-          "cerealguy"
+          "tourist"
         ],
         "participantType": "VIRTUAL",
         "participantTime": 1370341560,
@@ -60286,9 +60833,9 @@
       "verdict": "OK",
       "author": {
         "members": [
-          "tourist",
+          "cerealguy",
           "niyaznigmatul",
-          "cerealguy"
+          "tourist"
         ],
         "participantType": "VIRTUAL",
         "participantTime": 1370341560,
@@ -60311,9 +60858,9 @@
       "verdict": "OK",
       "author": {
         "members": [
-          "tourist",
+          "cerealguy",
           "niyaznigmatul",
-          "cerealguy"
+          "tourist"
         ],
         "participantType": "VIRTUAL",
         "participantTime": 1370341560,

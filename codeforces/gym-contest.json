@@ -9586,7 +9586,7 @@
   },
   {
     "type": "codeforces/gym/ioi",
-    "name": "2018-2019, XV Нижегородская городская олимпиада школьников по информатике им. В. Д. Лелюха",
+    "name": "XV Нижегородская городская олимпиада школьников по информатике им. В. Д. Лелюха",
     "duration": 18000,
     "participantNumber": 0,
     "id": 102112,
@@ -12828,6 +12828,16 @@
   },
   {
     "type": "codeforces/gym/icpc",
+    "name": "Moving intervals for packing and covering",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 103230,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103230",
+    "standingsUrl": "https://codeforces.com/gym/103230/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
     "name": "Teamscode Summer 2021",
     "duration": 10800,
     "participantNumber": 0,
@@ -12835,5 +12845,109 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/103241",
     "standingsUrl": "https://codeforces.com/gym/103241/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2021, XIII Donald Knuth Annual Programming Contest by ESCOM-IPN",
+    "startTime": 1628884800,
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 103256,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103256",
+    "standingsUrl": "https://codeforces.com/gym/103256/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2020-2021 Winter Petrozavodsk Camp, Day 5: Almost Retired Dandelion Contest (XXI Opencup, Grand Prix of Nizhny Novgorod)",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 103260,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103260",
+    "standingsUrl": "https://codeforces.com/gym/103260/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2019-2020 Winter Petrozavodsk Camp, Day 8: Almost Algorithmic Contest",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 103261,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103261",
+    "standingsUrl": "https://codeforces.com/gym/103261/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "XVII Нижегородская городская олимпиада школьников по информатике им. В. Д. Лелюха",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 103262,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103262",
+    "standingsUrl": "https://codeforces.com/gym/103262/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "XVI Нижегородская городская олимпиада школьников по информатике им. В. Д. Лелюха",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 103264,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103264",
+    "standingsUrl": "https://codeforces.com/gym/103264/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "XIV Нижегородская городская олимпиада школьников по информатике им. В. Д. Лелюха",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 103265,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103265",
+    "standingsUrl": "https://codeforces.com/gym/103265/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "UTPC Contest 09-03-21 Div. 2 (Beginner)",
+    "startTime": 1630710900,
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 103269,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103269",
+    "standingsUrl": "https://codeforces.com/gym/103269/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "UTPC Contest 09-03-21 Div. 1 (Advanced)",
+    "startTime": 1630710900,
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 103270,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103270",
+    "standingsUrl": "https://codeforces.com/gym/103270/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2021 ICPC Gran Premio de Mexico 1ra Fecha",
+    "startTime": 1630170000,
+    "duration": 14400,
+    "participantNumber": 0,
+    "id": 103274,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103274",
+    "standingsUrl": "https://codeforces.com/gym/103274/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "IQ PFO 2021",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 103286,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103286",
+    "standingsUrl": "https://codeforces.com/gym/103286/standings"
   }
 ]
