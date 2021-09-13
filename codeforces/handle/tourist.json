@@ -114,7 +114,7 @@
         "id": "1566E",
         "name": "Buds Re-hanging",
         "tags": [
-          "data structures",
+          "constructive algorithms",
           "dfs and similar",
           "greedy",
           "trees"
@@ -143,7 +143,8 @@
         "tags": [
           "binary search",
           "data structures",
-          "dp"
+          "dp",
+          "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/1566/problem/F"
       },
