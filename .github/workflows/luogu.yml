@@ -1,0 +1,17 @@
+name: Fetch Luogu data
+
+on:
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Fetch data
+        uses: yjl9903/CPany@v0.0.36
+        env:
+          CLIENT_ID: ${{ secrets.LUOGU_CLIENT_ID }}
+          UID: ${{ secrets.LUOGU_UID }}
+        with:
+          plugins: luogu
