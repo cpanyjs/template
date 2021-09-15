@@ -116,6 +116,7 @@
         "tags": [
           "constructive algorithms",
           "dfs and similar",
+          "dp",
           "greedy",
           "trees"
         ],
@@ -144,6 +145,7 @@
           "binary search",
           "data structures",
           "dp",
+          "implementation",
           "sortings"
         ],
         "problemUrl": "https://codeforces.com/contest/1566/problem/F"
@@ -276,6 +278,7 @@
         "id": "1566A",
         "name": "Median Maximization",
         "tags": [
+          "binary search",
           "greedy",
           "math"
         ],
