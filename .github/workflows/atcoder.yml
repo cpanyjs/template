@@ -1,0 +1,16 @@
+name: Fetch AtCoder data
+
+on:
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Fetch data
+        uses: yjl9903/CPany@v0.0.58
+        env:
+          REVEL_SESSION: ${{ secrets.REVEL_SESSION }}
+        with:
+          plugins: atcoder

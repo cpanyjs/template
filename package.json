@@ -5,6 +5,6 @@
     "build": "cpany build"
   },
   "dependencies": {
-    "@cpany/cli": "0.0.39"
+    "@cpany/cli": "0.0.58"
   }
 }

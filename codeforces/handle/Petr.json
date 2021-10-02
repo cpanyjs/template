@@ -1145,7 +1145,7 @@
       "type": "codeforces",
       "id": 120896750,
       "creationTime": 1624985234,
-      "language": "Kotlin",
+      "language": "Kotlin 1.4",
       "verdict": "OK",
       "author": {
         "members": [
@@ -1169,7 +1169,7 @@
       "type": "codeforces",
       "id": 120895795,
       "creationTime": 1624984548,
-      "language": "Kotlin",
+      "language": "Kotlin 1.4",
       "verdict": "TIME_LIMIT_EXCEEDED",
       "author": {
         "members": [
@@ -1193,7 +1193,7 @@
       "type": "codeforces",
       "id": 120890180,
       "creationTime": 1624980812,
-      "language": "Kotlin",
+      "language": "Kotlin 1.4",
       "verdict": "OK",
       "author": {
         "members": [
@@ -1222,7 +1222,7 @@
       "type": "codeforces",
       "id": 120888686,
       "creationTime": 1624979941,
-      "language": "Kotlin",
+      "language": "Kotlin 1.4",
       "verdict": "OK",
       "author": {
         "members": [
@@ -1249,7 +1249,7 @@
       "type": "codeforces",
       "id": 120887515,
       "creationTime": 1624979289,
-      "language": "Kotlin",
+      "language": "Kotlin 1.4",
       "verdict": "OK",
       "author": {
         "members": [
@@ -1276,7 +1276,7 @@
       "type": "codeforces",
       "id": 120886371,
       "creationTime": 1624978706,
-      "language": "Kotlin",
+      "language": "Kotlin 1.4",
       "verdict": "OK",
       "author": {
         "members": [
@@ -1302,7 +1302,7 @@
       "type": "codeforces",
       "id": 120885759,
       "creationTime": 1624978391,
-      "language": "Kotlin",
+      "language": "Kotlin 1.4",
       "verdict": "OK",
       "author": {
         "members": [
@@ -1329,7 +1329,7 @@
       "type": "codeforces",
       "id": 120885013,
       "creationTime": 1624978039,
-      "language": "Kotlin",
+      "language": "Kotlin 1.4",
       "verdict": "OK",
       "author": {
         "members": [
@@ -1354,7 +1354,7 @@
       "type": "codeforces",
       "id": 120884453,
       "creationTime": 1624977795,
-      "language": "Kotlin",
+      "language": "Kotlin 1.4",
       "verdict": "OK",
       "author": {
         "members": [
@@ -1380,7 +1380,7 @@
       "type": "codeforces",
       "id": 120883955,
       "creationTime": 1624977592,
-      "language": "Kotlin",
+      "language": "Kotlin 1.4",
       "verdict": "OK",
       "author": {
         "members": [
@@ -1405,7 +1405,7 @@
       "type": "codeforces",
       "id": 120883683,
       "creationTime": 1624977477,
-      "language": "Kotlin",
+      "language": "Kotlin 1.4",
       "verdict": "OK",
       "author": {
         "members": [
@@ -1431,7 +1431,7 @@
       "type": "codeforces",
       "id": 120883107,
       "creationTime": 1624977072,
-      "language": "Kotlin",
+      "language": "Kotlin 1.4",
       "verdict": "OK",
       "author": {
         "members": [
@@ -1455,7 +1455,7 @@
       "type": "codeforces",
       "id": 120883019,
       "creationTime": 1624976999,
-      "language": "Kotlin",
+      "language": "Kotlin 1.4",
       "verdict": "COMPILATION_ERROR",
       "author": {
         "members": [
@@ -10910,7 +10910,7 @@
       "type": "codeforces",
       "id": 54764385,
       "creationTime": 1559061799,
-      "language": "Kotlin",
+      "language": "Kotlin 1.4",
       "verdict": "OK",
       "author": {
         "members": [
@@ -10935,7 +10935,7 @@
       "type": "codeforces",
       "id": 54761813,
       "creationTime": 1559059330,
-      "language": "Kotlin",
+      "language": "Kotlin 1.4",
       "verdict": "OK",
       "author": {
         "members": [
@@ -10960,7 +10960,7 @@
       "type": "codeforces",
       "id": 54760498,
       "creationTime": 1559058245,
-      "language": "Kotlin",
+      "language": "Kotlin 1.4",
       "verdict": "OK",
       "author": {
         "members": [
@@ -10985,7 +10985,7 @@
       "type": "codeforces",
       "id": 54758765,
       "creationTime": 1559056919,
-      "language": "Kotlin",
+      "language": "Kotlin 1.4",
       "verdict": "OK",
       "author": {
         "members": [
@@ -11011,7 +11011,7 @@
       "type": "codeforces",
       "id": 54757909,
       "creationTime": 1559056288,
-      "language": "Kotlin",
+      "language": "Kotlin 1.4",
       "verdict": "TIME_LIMIT_EXCEEDED",
       "author": {
         "members": [
@@ -11037,7 +11037,7 @@
       "type": "codeforces",
       "id": 54756860,
       "creationTime": 1559055506,
-      "language": "Kotlin",
+      "language": "Kotlin 1.4",
       "verdict": "OK",
       "author": {
         "members": [
@@ -11062,7 +11062,7 @@
       "type": "codeforces",
       "id": 54756305,
       "creationTime": 1559055136,
-      "language": "Kotlin",
+      "language": "Kotlin 1.4",
       "verdict": "OK",
       "author": {
         "members": [
@@ -11088,7 +11088,7 @@
       "type": "codeforces",
       "id": 54755641,
       "creationTime": 1559054681,
-      "language": "Kotlin",
+      "language": "Kotlin 1.4",
       "verdict": "OK",
       "author": {
         "members": [
@@ -11114,7 +11114,7 @@
       "type": "codeforces",
       "id": 54755352,
       "creationTime": 1559054482,
-      "language": "Kotlin",
+      "language": "Kotlin 1.4",
       "verdict": "OK",
       "author": {
         "members": [
@@ -11139,7 +11139,7 @@
       "type": "codeforces",
       "id": 54755138,
       "creationTime": 1559054337,
-      "language": "Kotlin",
+      "language": "Kotlin 1.4",
       "verdict": "OK",
       "author": {
         "members": [
@@ -11164,7 +11164,7 @@
       "type": "codeforces",
       "id": 54739071,
       "creationTime": 1559025991,
-      "language": "Kotlin",
+      "language": "Kotlin 1.4",
       "verdict": "OK",
       "author": {
         "members": [
@@ -11191,7 +11191,7 @@
       "type": "codeforces",
       "id": 54739016,
       "creationTime": 1559025860,
-      "language": "Kotlin",
+      "language": "Kotlin 1.4",
       "verdict": "COMPILATION_ERROR",
       "author": {
         "members": [
@@ -11218,7 +11218,7 @@
       "type": "codeforces",
       "id": 54738942,
       "creationTime": 1559025734,
-      "language": "Kotlin",
+      "language": "Kotlin 1.4",
       "verdict": "COMPILATION_ERROR",
       "author": {
         "members": [
