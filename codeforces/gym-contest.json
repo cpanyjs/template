@@ -12950,5 +12950,60 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/103286",
     "standingsUrl": "https://codeforces.com/gym/103286/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "UTPC Contest 09-17-21 Div. 2 (Beginner)",
+    "startTime": 1631920500,
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 103294,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103294",
+    "standingsUrl": "https://codeforces.com/gym/103294/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "UTPC Contest 09-17-21 Div. 1 (Advanced)",
+    "startTime": 1631920500,
+    "duration": 7200,
+    "participantNumber": 0,
+    "id": 103295,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103295",
+    "standingsUrl": "https://codeforces.com/gym/103295/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2021 ICPC Gran Premio de Mexico 2da Fecha",
+    "startTime": 1632589200,
+    "duration": 14400,
+    "participantNumber": 0,
+    "id": 103306,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103306",
+    "standingsUrl": "https://codeforces.com/gym/103306/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "UTPC Contest 10-01-21 Div. 1 (Advanced)",
+    "startTime": 1633130100,
+    "duration": 7500,
+    "participantNumber": 0,
+    "id": 103316,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103316",
+    "standingsUrl": "https://codeforces.com/gym/103316/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "UTPC Contest 10-01-21 Div. 2 (Beginner)",
+    "startTime": 1633130100,
+    "duration": 7500,
+    "participantNumber": 0,
+    "id": 103317,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103317",
+    "standingsUrl": "https://codeforces.com/gym/103317/standings"
   }
 ]
