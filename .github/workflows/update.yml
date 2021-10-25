@@ -15,4 +15,4 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Fetch data
-        uses: yjl9903/CPany@v0.0.59
+        uses: yjl9903/CPany@v0.0.60
