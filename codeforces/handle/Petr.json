@@ -29,7 +29,8 @@
         "name": "A Perfect Problem",
         "tags": [
           "combinatorics",
-          "dp"
+          "dp",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1603/problem/E"
       },
@@ -52,8 +53,11 @@
         "type": "codeforces",
         "id": "1603D",
         "name": "Artistic Partition",
+        "rating": 3000,
         "tags": [
+          "divide and conquer",
           "dp",
+          "implementation",
           "number theory"
         ],
         "problemUrl": "https://codeforces.com/contest/1603/problem/D"
@@ -79,7 +83,8 @@
         "name": "A Perfect Problem",
         "tags": [
           "combinatorics",
-          "dp"
+          "dp",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/1603/problem/E"
       },
@@ -102,11 +107,12 @@
         "type": "codeforces",
         "id": "1603C",
         "name": "Extreme Extension",
+        "rating": 2300,
         "tags": [
           "dp",
-          "graphs",
           "greedy",
-          "math"
+          "math",
+          "number theory"
         ],
         "problemUrl": "https://codeforces.com/contest/1603/problem/C"
       },
@@ -129,6 +135,7 @@
         "type": "codeforces",
         "id": "1603B",
         "name": "Moderate Modular Mode",
+        "rating": 1600,
         "tags": [
           "constructive algorithms",
           "math",
@@ -155,6 +162,7 @@
         "type": "codeforces",
         "id": "1603A",
         "name": "Di-visible Confusion",
+        "rating": 1300,
         "tags": [
           "constructive algorithms",
           "math",

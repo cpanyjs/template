@@ -12,6 +12,33 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 133720215,
+      "creationTime": 1635656125,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -511827522
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1603F",
+        "name": "October 18, 2017",
+        "tags": [
+          "combinatorics",
+          "dp",
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1603/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1603/submission/133720215"
+    },
+    {
+      "type": "codeforces",
       "id": 133684798,
       "creationTime": 1635611699,
       "language": "GNU C++20 (64)",
@@ -54,8 +81,11 @@
         "type": "codeforces",
         "id": "1603D",
         "name": "Artistic Partition",
+        "rating": 3000,
         "tags": [
+          "divide and conquer",
           "dp",
+          "implementation",
           "number theory"
         ],
         "problemUrl": "https://codeforces.com/contest/1603/problem/D"
@@ -79,11 +109,12 @@
         "type": "codeforces",
         "id": "1603C",
         "name": "Extreme Extension",
+        "rating": 2300,
         "tags": [
           "dp",
-          "graphs",
           "greedy",
-          "math"
+          "math",
+          "number theory"
         ],
         "problemUrl": "https://codeforces.com/contest/1603/problem/C"
       },
@@ -106,6 +137,7 @@
         "type": "codeforces",
         "id": "1603B",
         "name": "Moderate Modular Mode",
+        "rating": 1600,
         "tags": [
           "constructive algorithms",
           "math",
@@ -132,6 +164,7 @@
         "type": "codeforces",
         "id": "1603A",
         "name": "Di-visible Confusion",
+        "rating": 1300,
         "tags": [
           "constructive algorithms",
           "math",
@@ -158,6 +191,7 @@
         "type": "codeforces",
         "id": "1603A",
         "name": "Di-visible Confusion",
+        "rating": 1300,
         "tags": [
           "constructive algorithms",
           "math",
