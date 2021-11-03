@@ -2,7 +2,7 @@ name: Deploy Github Pages
 
 on:
   workflow_run:
-    workflows: ["Fetch data", "Fetch Luogu data"]
+    workflows: ["Fetch data", "Fetch Luogu data", "Fetch AtCoder data"]
     types:
       - completed
 
