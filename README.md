@@ -52,43 +52,9 @@ Then you can just create a new CPany site with your repository on Vercel.
 
 The template repository has also provided a workflow `gh-pages.yml`, which will automatically push the generated static site to the branch `gh-pages`. You can just enable Github Pages in the Settings of your repository.
 
-### Run locally
+## Upgrading
 
-Install [Node.js >= 14](https://nodejs.org/).
-
-Run one of the following commands to install [@cpany/cli](https://www.npmjs.com/package/@cpany/cli) globally.
-
-```bash
-# npm
-npm i -g @cpany/cli
-
-# yarn
-yarn global add @cpany/cli
-```
-
-Create an empty foler, and create `cpany.yml` in this new folder.
-
-```bash
-# prepare folder
-mkdir cpany-data
-cd cpany-data
-echo "users:" > cpany.yml
-echo "  tourist:" >> cpany.yml
-echo "    codeforces/handle: tourist" >> cpany.yml
-```
-
-Fetch data, and start your static site.
-
-```bash
-# fetch data
-cpany action
-
-# Start dev server
-cpany dev
-
-# Build static site
-cpany build
-```
+The template repo uses dependabot remind you to upgrade the version of [@cpany/cli](https://www.npmjs.com/package/@cpany/cli). The dependabot will automatically create a new upgrade branch and you can merge this branch.
 
 ## License
 
