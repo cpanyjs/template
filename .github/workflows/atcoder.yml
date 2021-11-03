@@ -14,3 +14,4 @@ jobs:
           REVEL_SESSION: ${{ secrets.REVEL_SESSION }}
         with:
           plugins: atcoder
+          log-level: error
