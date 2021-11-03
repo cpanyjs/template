@@ -3,12 +3,6 @@
   "handle": "jiangly",
   "handleUrl": "https://codeforces.com/profile/jiangly",
   "avatar": "https://userpic.codeforces.org/887306/title/8a005a7ae1ea1a45.jpg",
-  "codeforces": {
-    "rank": "legendary grandmaster",
-    "rating": 3326,
-    "maxRank": "legendary grandmaster",
-    "maxRating": 3492
-  },
   "submissions": [
     {
       "type": "codeforces",
@@ -135737,5 +135731,11 @@
       },
       "submissionUrl": "https://codeforces.com/contest/1105/submission/48611453"
     }
-  ]
+  ],
+  "codeforces": {
+    "rank": "legendary grandmaster",
+    "rating": 3326,
+    "maxRank": "legendary grandmaster",
+    "maxRating": 3492
+  }
 }

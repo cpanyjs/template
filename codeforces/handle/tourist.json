@@ -3,12 +3,6 @@
   "handle": "tourist",
   "handleUrl": "https://codeforces.com/profile/tourist",
   "avatar": "https://userpic.codeforces.org/422/title/50a270ed4a722867.jpg",
-  "codeforces": {
-    "rank": "legendary grandmaster",
-    "rating": 3804,
-    "maxRank": "legendary grandmaster",
-    "maxRating": 3822
-  },
   "submissions": [
     {
       "type": "codeforces",
@@ -83145,5 +83139,11 @@
       },
       "submissionUrl": "https://codeforces.com/contest/2/submission/7267"
     }
-  ]
+  ],
+  "codeforces": {
+    "rank": "legendary grandmaster",
+    "rating": 3804,
+    "maxRank": "legendary grandmaster",
+    "maxRating": 3822
+  }
 }
