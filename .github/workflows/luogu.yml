@@ -15,3 +15,4 @@ jobs:
           UID: ${{ secrets.LUOGU_UID }}
         with:
           plugins: luogu
+          log-level: error
