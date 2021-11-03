@@ -31,7 +31,6 @@
         "tags": [
           "divide and conquer",
           "dp",
-          "implementation",
           "number theory"
         ],
         "problemUrl": "https://codeforces.com/contest/1603/problem/D"
@@ -55,6 +54,7 @@
         "type": "codeforces",
         "id": "1603E",
         "name": "A Perfect Problem",
+        "rating": 3200,
         "tags": [
           "combinatorics",
           "dp",
@@ -83,6 +83,7 @@
         "name": "Extreme Extension",
         "rating": 2300,
         "tags": [
+          "divide and conquer",
           "dp",
           "greedy",
           "math",
@@ -68966,7 +68967,8 @@
         "name": "Wizards and Trolleybuses",
         "rating": 1600,
         "tags": [
-          "implementation"
+          "implementation",
+          "math"
         ],
         "problemUrl": "https://codeforces.com/contest/167/problem/A"
       },

@@ -27,6 +27,7 @@
         "type": "codeforces",
         "id": "1603F",
         "name": "October 18, 2017",
+        "rating": 2700,
         "tags": [
           "combinatorics",
           "dp",
@@ -54,6 +55,7 @@
         "type": "codeforces",
         "id": "1603F",
         "name": "October 18, 2017",
+        "rating": 2700,
         "tags": [
           "combinatorics",
           "dp",
@@ -85,7 +87,6 @@
         "tags": [
           "divide and conquer",
           "dp",
-          "implementation",
           "number theory"
         ],
         "problemUrl": "https://codeforces.com/contest/1603/problem/D"
@@ -111,6 +112,7 @@
         "name": "Extreme Extension",
         "rating": 2300,
         "tags": [
+          "divide and conquer",
           "dp",
           "greedy",
           "math",
