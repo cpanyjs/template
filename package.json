@@ -1,7 +1,7 @@
 {
   "private": true,
   "scripts": {
-    "dev": "cpany dev",
+    "dev": "cpany dev --open",
     "build": "cpany build"
   },
   "dependencies": {
