@@ -13274,5 +13274,55 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/103401",
     "standingsUrl": "https://codeforces.com/gym/103401/standings"
+  },
+  {
+    "type": "codeforces/gym/ioi",
+    "name": "Сумасшедший контест (Miston Cats)",
+    "duration": 10800,
+    "participantNumber": 0,
+    "id": 103402,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103402",
+    "standingsUrl": "https://codeforces.com/gym/103402/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "The 2021 CCPC Guilin Onsite (Grand Prix of EDG)",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 103409,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103409",
+    "standingsUrl": "https://codeforces.com/gym/103409/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2020-2021, ICPC, East Siberian Regional Contest",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 103411,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103411",
+    "standingsUrl": "https://codeforces.com/gym/103411/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "2021-2022 Saint-Petersburg Open High School Programming Contest (SpbKOSHP 21)",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 103414,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103414",
+    "standingsUrl": "https://codeforces.com/gym/103414/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "The 2021 CCPC Guangzhou Onsite",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 103415,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103415",
+    "standingsUrl": "https://codeforces.com/gym/103415/standings"
   }
 ]
