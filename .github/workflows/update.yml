@@ -15,7 +15,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Setup CPany
-        uses: cpany/setup-cpany@v0
+        uses: cpanyjs/setup-cpany@v0
       - name: Fetch data
         run: cpany fetch
       - name: Push
