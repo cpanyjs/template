@@ -8,11 +8,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: Fetch data
-        uses: yjl9903/CPany@v0.0.60
+      - name: Setup CPany
+        uses: cpanyjs/setup-cpany@v0
+      - name: Fetch luogu data
+        run: cpany fetch --plugins luogu --log error
         env:
           CLIENT_ID: ${{ secrets.LUOGU_CLIENT_ID }}
           UID: ${{ secrets.LUOGU_UID }}
-        with:
-          plugins: luogu
-          log-level: error
