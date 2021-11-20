@@ -18,7 +18,3 @@ jobs:
         uses: cpanyjs/setup-cpany@v0
       - name: Fetch data
         run: cpany fetch
-      - name: Push
-        uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: Fetch data
