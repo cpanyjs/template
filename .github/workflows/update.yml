@@ -14,5 +14,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+      - name: Setup CPany
+        uses: cpany/setup-cpany@v0
       - name: Fetch data
-        uses: yjl9903/CPany@v0
+        run: cpany fetch
+      - name: Push
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Fetch data
