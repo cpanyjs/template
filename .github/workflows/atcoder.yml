@@ -8,10 +8,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: Fetch data
-        uses: yjl9903/CPany@v0.0.60
+      - name: Setup CPany
+        uses: cpanyjs/setup-cpany@v0
+      - name: Fetch atcoder data
+        run: cpany fetch --plugins atcoder --log error
         env:
           REVEL_SESSION: ${{ secrets.REVEL_SESSION }}
-        with:
-          plugins: atcoder
-          log-level: error
