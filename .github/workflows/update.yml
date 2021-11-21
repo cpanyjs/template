@@ -5,6 +5,8 @@ on:
   push:
     branches:
       - main
+    paths:
+      - cpany.yml
   # schedule:
   #   - cron:  '0 21 * * *'
 
