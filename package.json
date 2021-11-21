@@ -5,10 +5,10 @@
     "build": "cpany build"
   },
   "dependencies": {
-    "@cpany/cli": "0.1.2",
-    "@cpany/plugin-codeforces": "0.1.2",
-    "@cpany/plugin-hdu": "0.1.2",
-    "@cpany/plugin-atcoder": "0.1.2",
-    "@cpany/plugin-luogu": "0.1.2"
+    "@cpany/cli": "^0.1.3",
+    "@cpany/plugin-atcoder": "^0.1.3",
+    "@cpany/plugin-codeforces": "^0.1.3",
+    "@cpany/plugin-hdu": "^0.1.3",
+    "@cpany/plugin-luogu": "^0.1.3"
   }
 }
