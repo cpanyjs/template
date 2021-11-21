@@ -13,9 +13,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - run: |
-          pacakge=`cat ./package.json`
-          pacakge="${content//'%'/'%25'}"
-          pacakge="${content//$'\n'/'%0A'}"
-          pacakge="${content//$'\r'/'%0D'}"
-          echo $package
+      - uses: actions/github-script@v3
+        with:
+          scripts: |
+            const deps = require('./package.json').dependencies;
+            for (const dep in deps) {
+              if (dep.startsWith('@cpany')) {
+                exec.exec('npm', ['i', `${dep}@${core.getInput('version')}`])
+              }
+            }
