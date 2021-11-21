@@ -17,8 +17,10 @@ jobs:
         with:
           script: |
             const deps = require('./package.json').dependencies;
+            const version = core.getInput('version');
+            console.log('version: ${version}');
             for (const dep in deps) {
               if (dep.startsWith('@cpany')) {
-                exec.exec('npm', ['i', `${dep}@${core.getInput('version')}`])
+                exec.exec('npm', ['i', `${dep}@${version}`]);
               }
             }
