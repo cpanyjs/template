@@ -14,5 +14,6 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - run: |
-          echo "${{ fromJson('./package.json').dependencies }}"
+          pacakge="./package.json"
+          echo "${{ fromJson($package).dependencies }}"
           # npm i @cpany/cli@${{ github.event.inputs.version }}
