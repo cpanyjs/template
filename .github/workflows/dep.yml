@@ -9,7 +9,7 @@ on:
         default: 'latest'
 
 jobs:
-  update:
+  upgrade:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
