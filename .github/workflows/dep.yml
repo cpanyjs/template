@@ -18,5 +18,4 @@ jobs:
           pacakge="${content//'%'/'%25'}"
           pacakge="${content//$'\n'/'%0A'}"
           pacakge="${content//$'\r'/'%0D'}"
-          echo "${{ fromJson(env.package).dependencies }}"
-          # npm i @cpany/cli@${{ github.event.inputs.version }}
+          echo $package
