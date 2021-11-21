@@ -15,7 +15,7 @@ jobs:
       - uses: actions/checkout@v2
       - uses: actions/github-script@v3
         with:
-          scripts: |
+          script: |
             const deps = require('./package.json').dependencies;
             for (const dep in deps) {
               if (dep.startsWith('@cpany')) {
