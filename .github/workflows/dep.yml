@@ -14,6 +14,9 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - run: |
-          pacakge="./package.json"
+          pacakge=`cat ./package.json`
+          pacakge="${content//'%'/'%25'}"
+          pacakge="${content//$'\n'/'%0A'}"
+          pacakge="${content//$'\r'/'%0D'}"
           echo "${{ fromJson(env.package).dependencies }}"
           # npm i @cpany/cli@${{ github.event.inputs.version }}
