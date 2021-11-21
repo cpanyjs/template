@@ -17,11 +17,16 @@ jobs:
         with:
           script: |
             const deps = require('./package.json').dependencies;
-            const version = ${{ github.event.inputs.version }};
-            console.log(`version: ${version}`);
-            console.log(process.env);
+            const version = '${{ github.event.inputs.version }}';
             for (const dep in deps) {
               if (dep.startsWith('@cpany')) {
-                //exec.exec('npm', ['i', `${dep}@${version}`]);
+                const cmd = `npm i ${dep}@${version}`;
+                await core.group(cmd, () => exec(cmd));
               }
             }
+      - run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add package.json package-lock.json
+          git commit -m "Bump CPany to ${{ github.event.inputs.version }}"
+          git push
