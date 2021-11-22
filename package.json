@@ -9,6 +9,6 @@
     "@cpany/plugin-atcoder": "^0.1.3",
     "@cpany/plugin-codeforces": "^0.1.4",
     "@cpany/plugin-hdu": "^0.1.3",
-    "@cpany/plugin-luogu": "^0.1.3"
+    "@cpany/plugin-luogu": "^0.1.4"
   }
 }
