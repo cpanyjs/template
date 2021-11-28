@@ -1,4 +1,4 @@
-# CPany Data Repo
+# CPany Template Data Repo
 
 [![version](https://img.shields.io/npm/v/@cpany/cli?color=rgb%2850%2C203%2C86%29&label=CPany)](https://www.npmjs.com/package/@cpany/cli)
 
