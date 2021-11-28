@@ -18,7 +18,7 @@ jobs:
       - name: Setup CPany
         uses: cpanyjs/setup-cpany@v0
       - name: Fetch data
-        run: cpany fetch --plugins codeforces hdu
+        run: cpany fetch --plugins codeforces --plugins hdu
       - name: Push
         run: |
           git config user.name "${{ github.actor }}"
