@@ -14,6 +14,8 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
+      - name: Set Timezone
+        run: sudo timedatectl set-timezone "Asia/Shanghai"
       - uses: actions/checkout@v2
       - name: Setup CPany
         uses: cpanyjs/setup-cpany@v0
