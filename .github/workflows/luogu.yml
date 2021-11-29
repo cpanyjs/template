@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  update:
+  luogu:
     runs-on: ubuntu-latest
     steps:
       - name: Set Timezone
