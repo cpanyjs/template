@@ -11,7 +11,7 @@ on:
   #   - cron:  '0 21 * * *'
 
 jobs:
-  update:
+  fetch:
     runs-on: ubuntu-latest
     steps:
       - name: Set Timezone
