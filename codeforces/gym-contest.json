@@ -13413,12 +13413,22 @@
   },
   {
     "type": "codeforces/gym/icpc",
-    "name": "past problems",
+    "name": "2021 ICPC Southeastern Europe Regional Contest",
     "duration": 18000,
     "participantNumber": 0,
-    "id": 103434,
+    "id": 103438,
     "phase": "FINISHED",
-    "contestUrl": "https://codeforces.com/gym/103434",
-    "standingsUrl": "https://codeforces.com/gym/103434/standings"
+    "contestUrl": "https://codeforces.com/gym/103438",
+    "standingsUrl": "https://codeforces.com/gym/103438/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "GP of Southeastern Europe 2021",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 103439,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103439",
+    "standingsUrl": "https://codeforces.com/gym/103439/standings"
   }
 ]
