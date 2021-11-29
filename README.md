@@ -56,7 +56,7 @@ The template repository has also provided a workflow `gh-pages.yml`, which will 
 
 ## Upgrading
 
-The template repo uses dependabot remind you to upgrade the version of [@cpany/cli](https://www.npmjs.com/package/@cpany/cli). The dependabot will automatically create a new upgrade branch and you can just merge this branch.
+The template repo provides an automating upgrading action `upgrade.yml`. You can manually run it in the actions tab - Upgrade CPany.
 
 ## License
 
