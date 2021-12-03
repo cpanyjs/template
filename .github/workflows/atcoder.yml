@@ -13,7 +13,7 @@ jobs:
       - name: Setup CPany
         uses: cpanyjs/setup-cpany@v0
       - name: Fetch atcoder data
-        run: cpany fetch --plugins atcoder --log error
+        run: cpany fetch --plugin atcoder --log error
         env:
           REVEL_SESSION: ${{ secrets.REVEL_SESSION }}
       - name: Push
