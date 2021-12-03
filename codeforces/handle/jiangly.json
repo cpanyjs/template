@@ -6,6 +6,272 @@
   "submissions": [
     {
       "type": "codeforces",
+      "id": 137806721,
+      "creationTime": 1638461663,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -509021984
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1613F",
+        "name": "Tree Coloring",
+        "tags": [
+          "combinatorics",
+          "divide and conquer",
+          "fft"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1613/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1613/submission/137806721"
+    },
+    {
+      "type": "codeforces",
+      "id": 137761613,
+      "creationTime": 1638434085,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -509049562
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "103438B",
+        "name": "New Queries On Segment Deluxe",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/103438/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/gym/103438/submission/137761613"
+    },
+    {
+      "type": "codeforces",
+      "id": 137757660,
+      "creationTime": 1638431457,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -509052190
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "103438M",
+        "name": "Counting Phenomenal Arrays",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/103438/problem/M"
+      },
+      "submissionUrl": "https://codeforces.com/gym/103438/submission/137757660"
+    },
+    {
+      "type": "codeforces",
+      "id": 137757330,
+      "creationTime": 1638431219,
+      "language": "GNU C++20 (64)",
+      "verdict": "WRONG_ANSWER",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -509052428
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "103438M",
+        "name": "Counting Phenomenal Arrays",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/103438/problem/M"
+      },
+      "submissionUrl": "https://codeforces.com/gym/103438/submission/137757330"
+    },
+    {
+      "type": "codeforces",
+      "id": 137683303,
+      "creationTime": 1638373718,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1638369300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1613A",
+        "name": "Long Comparison",
+        "tags": [
+          "implementation",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1613/problem/A"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1613/submission/137683303"
+    },
+    {
+      "type": "codeforces",
+      "id": 137681716,
+      "creationTime": 1638373533,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1638369300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1613B",
+        "name": "Absent Remainder",
+        "tags": [
+          "greedy",
+          "implementation",
+          "sortings"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1613/problem/B"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1613/submission/137681716"
+    },
+    {
+      "type": "codeforces",
+      "id": 137680284,
+      "creationTime": 1638373369,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1638369300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1613C",
+        "name": "Poisoned Dagger",
+        "tags": [
+          "binary search"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1613/problem/C"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1613/submission/137680284"
+    },
+    {
+      "type": "codeforces",
+      "id": 137678866,
+      "creationTime": 1638373203,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1638369300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1613D",
+        "name": "MEX Sequences",
+        "tags": [
+          "dp",
+          "math"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1613/problem/D"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1613/submission/137678866"
+    },
+    {
+      "type": "codeforces",
+      "id": 137645123,
+      "creationTime": 1638370422,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1638369300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1613E",
+        "name": "Crazy Robot",
+        "tags": [
+          "constructive algorithms",
+          "dfs and similar",
+          "graphs"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1613/problem/E"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1613/submission/137645123"
+    },
+    {
+      "type": "codeforces",
+      "id": 137634138,
+      "creationTime": 1638369826,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "CONTESTANT",
+        "participantTime": 1638369300
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "1613F",
+        "name": "Tree Coloring",
+        "tags": [
+          "combinatorics",
+          "divide and conquer",
+          "fft"
+        ],
+        "problemUrl": "https://codeforces.com/contest/1613/problem/F"
+      },
+      "submissionUrl": "https://codeforces.com/contest/1613/submission/137634138"
+    },
+    {
+      "type": "codeforces",
+      "id": 137411933,
+      "creationTime": 1638267937,
+      "language": "GNU C++20 (64)",
+      "verdict": "OK",
+      "author": {
+        "members": [
+          "jiangly"
+        ],
+        "participantType": "PRACTICE",
+        "participantTime": -509215710
+      },
+      "problem": {
+        "type": "codeforces",
+        "id": "103438I",
+        "name": "Flood Fill",
+        "tags": [],
+        "problemUrl": "https://codeforces.com/gym/103438/problem/I"
+      },
+      "submissionUrl": "https://codeforces.com/gym/103438/submission/137411933"
+    },
+    {
+      "type": "codeforces",
       "id": 137340509,
       "creationTime": 1638187894,
       "language": "GNU C++20 (64)",
@@ -353,11 +619,10 @@
         "name": "Interesting Sections",
         "rating": 2800,
         "tags": [
-          "binary search",
           "data structures",
           "divide and conquer",
-          "geometry",
-          "meet-in-the-middle"
+          "meet-in-the-middle",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1609/problem/F"
       },
@@ -463,8 +728,8 @@
         "name": "William The Oblivious ",
         "rating": 2400,
         "tags": [
+          "bitmasks",
           "data structures",
-          "divide and conquer",
           "dp",
           "matrices"
         ],
@@ -138369,7 +138634,7 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3333,
+    "rating": 3334,
     "maxRank": "legendary grandmaster",
     "maxRating": 3492
   }

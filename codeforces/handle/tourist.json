@@ -73,11 +73,10 @@
         "name": "Interesting Sections",
         "rating": 2800,
         "tags": [
-          "binary search",
           "data structures",
           "divide and conquer",
-          "geometry",
-          "meet-in-the-middle"
+          "meet-in-the-middle",
+          "two pointers"
         ],
         "problemUrl": "https://codeforces.com/contest/1609/problem/F"
       },
@@ -102,8 +101,8 @@
         "name": "William The Oblivious ",
         "rating": 2400,
         "tags": [
+          "bitmasks",
           "data structures",
-          "divide and conquer",
           "dp",
           "matrices"
         ],
@@ -84075,8 +84074,8 @@
   ],
   "codeforces": {
     "rank": "legendary grandmaster",
-    "rating": 3869,
+    "rating": 3870,
     "maxRank": "legendary grandmaster",
-    "maxRating": 3869
+    "maxRating": 3870
   }
 }

@@ -13430,5 +13430,48 @@
     "phase": "FINISHED",
     "contestUrl": "https://codeforces.com/gym/103439",
     "standingsUrl": "https://codeforces.com/gym/103439/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "The 2021 ICPC Asia Taipei Regional Programming Contest",
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 103443,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103443",
+    "standingsUrl": "https://codeforces.com/gym/103443/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "The 2021 ICPC Asia Shanghai Regional Programming Contest",
+    "startTime": 1638068400,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 103446,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103446",
+    "standingsUrl": "https://codeforces.com/gym/103446/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "The 2021 China Collegiate Programming Contest (Harbin)",
+    "startTime": 1638061200,
+    "duration": 18000,
+    "participantNumber": 0,
+    "id": 103447,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103447",
+    "standingsUrl": "https://codeforces.com/gym/103447/standings"
+  },
+  {
+    "type": "codeforces/gym/icpc",
+    "name": "The 16-th Beihang University Collegiate Programming Contest (BCPC 2021) - Preliminary",
+    "startTime": 1637971200,
+    "duration": 302400,
+    "participantNumber": 0,
+    "id": 103448,
+    "phase": "FINISHED",
+    "contestUrl": "https://codeforces.com/gym/103448",
+    "standingsUrl": "https://codeforces.com/gym/103448/standings"
   }
 ]
