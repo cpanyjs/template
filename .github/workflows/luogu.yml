@@ -13,7 +13,7 @@ jobs:
       - name: Setup CPany
         uses: cpanyjs/setup-cpany@v0
       - name: Fetch luogu data
-        run: cpany fetch --plugins luogu --log error
+        run: cpany fetch --plugin luogu --log error
         env:
           CLIENT_ID: ${{ secrets.LUOGU_CLIENT_ID }}
           UID: ${{ secrets.LUOGU_UID }}
