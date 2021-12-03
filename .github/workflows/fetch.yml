@@ -20,7 +20,7 @@ jobs:
       - name: Setup CPany
         uses: cpanyjs/setup-cpany@v0
       - name: Fetch data
-        run: cpany fetch --plugins codeforces --plugins hdu
+        run: cpany fetch --plugin codeforces --plugin hdu
       - name: Capture Screenshot
         run: |
           cpany export --out screenshot --type png --page codeforces?sort=Rating
