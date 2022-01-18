@@ -7,14 +7,16 @@ on:
       - completed
 
 jobs:
-  update:
+  build:
     runs-on: ubuntu-latest
     steps:
       - name: Set Timezone
         run: sudo timedatectl set-timezone "Asia/Shanghai"
       - uses: actions/checkout@v2
-      - run: npm install
-      - run: npm run build
+      - name: Setup CPany
+        uses: cpanyjs/setup-cpany@v0
+      - name: Build
+        run: cpany build
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
