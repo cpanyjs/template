@@ -19,6 +19,8 @@ jobs:
       - name: Set Timezone
         run: sudo timedatectl set-timezone "Asia/Shanghai"
       - uses: actions/checkout@v2
+        with:
+          fetch-depth: 60
       - name: Setup CPany
         uses: cpanyjs/setup-cpany@v0
       - name: Build
