@@ -8,7 +8,7 @@ on:
       - package.json
       - nowcoder
   workflow_run:
-    workflows: ["Fetch data", "Fetch Luogu data", "Fetch AtCoder data"]
+    workflows: ["Upgrade CPany", "Fetch data", "Fetch Luogu data", "Fetch AtCoder data"]
     types:
       - completed
   workflow_dispatch:
