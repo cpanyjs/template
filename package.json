@@ -5,11 +5,11 @@
     "build": "cpany build"
   },
   "dependencies": {
-    "@cpany/cli": "^0.1.16",
-    "@cpany/plugin-atcoder": "^0.1.16",
-    "@cpany/plugin-codeforces": "^0.1.16",
-    "@cpany/plugin-hdu": "^0.1.16",
-    "@cpany/plugin-luogu": "^0.1.16",
+    "@cpany/cli": "^0.1.17",
+    "@cpany/plugin-atcoder": "^0.1.17",
+    "@cpany/plugin-codeforces": "^0.1.17",
+    "@cpany/plugin-hdu": "^0.1.17",
+    "@cpany/plugin-luogu": "^0.1.17",
     "capture-website-cli": "^2.3.0"
   }
 }
